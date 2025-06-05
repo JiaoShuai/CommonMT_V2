@@ -1,0 +1,2002 @@
+[
+    {
+        "chinese_source": "他想拉同村的干部一起下水去贩毒。",
+        "english_target_correct": "He wants to take the cadres of the same village to sell drugs with him.",
+        "english_target_wrong": "He wants to pull the cadres of the same village to enter the water to sell drugs."
+    },
+    {
+        "chinese_source": "放学后这几个学生约好一起去水库下水。",
+        "english_target_correct": "After school, these students agreed to go to the reservoir together for swimming.",
+        "english_target_wrong": "After school, these students agreed to go to the reservoir to do bad things."
+    },
+    {
+        "chinese_source": "吃掉敌人一个师。",
+        "english_target_correct": "Destroy a division of the enemy.",
+        "english_target_wrong": "Eat a division of the enemy."
+    },
+    {
+        "chinese_source": "他喜欢吃苹果。",
+        "english_target_correct": "He likes to eat apples.",
+        "english_target_wrong": "He likes to destory apples."
+    },
+    {
+        "chinese_source": "到现在也没给我安排住房，晚上只好到处游击。",
+        "english_target_correct": "I have not been arranged accommodation until now, so I had to look around for it at night.",
+        "english_target_wrong": "I have not been arranged accommodation until now, so I had to guerrilla everywhere at night."
+    },
+    {
+        "chinese_source": "我们部队到处游击敌人。",
+        "english_target_correct": "Our troops guerrapped the enemy everywhere.",
+        "english_target_wrong": "Our troops looked for enemies everywhere."
+    },
+    {
+        "chinese_source": "九十年代很多人下海经商。",
+        "english_target_correct": "In the 1990s, many people ventured into business.",
+        "english_target_wrong": "In the 1990s, many people went to the sea to do business."
+    },
+    {
+        "chinese_source": "海边的渔民靠下海捕鱼为生。",
+        "english_target_correct": "The fishermen who live by the sea earn their living by fishing.",
+        "english_target_wrong": "The fishermen who live by the beach depend on the division fishing for living ."
+    },
+    {
+        "chinese_source": "他这个人真是一块朽木。",
+        "english_target_correct": "He is a man who can't be taught.",
+        "english_target_wrong": "This person is really a piece of dead wood."
+    },
+    {
+        "chinese_source": "这个家具的用料里面夹着一些朽木。",
+        "english_target_correct": "There is some decayed wood in the material of this furniture.",
+        "english_target_wrong": "there is some people who can't be taught in the material of this furniture."
+    },
+    {
+        "chinese_source": "他是一个爱丢东西的人。",
+        "english_target_correct": "He is a person who is often prone to lose things.",
+        "english_target_wrong": "He is a person who loves to lose things."
+    },
+    {
+        "chinese_source": "他爱穿红色的衣服。",
+        "english_target_correct": "He loves to wear red clothes.",
+        "english_target_wrong": "He is often prone to wearing red clothes."
+    },
+    {
+        "chinese_source": "警察在这里安了几个人。",
+        "english_target_correct": "The police arranged several people here.",
+        "english_target_wrong": "The police installed several people here."
+    },
+    {
+        "chinese_source": "火车站安了自动检票机。",
+        "english_target_correct": "The automatic ticket gate was installed at the train station.",
+        "english_target_wrong": "The automatic ticket gate was arranged at the train station."
+    },
+    {
+        "chinese_source": "汛期已过，河流安澜。",
+        "english_target_correct": "The flood season has passed and the river is quiet.",
+        "english_target_wrong": "The flood season has passed and the river is safe."
+    },
+    {
+        "chinese_source": "国家安澜，才能搞好建设。",
+        "english_target_correct": "Only when the country is safe, can we build it well.",
+        "english_target_wrong": "Only when the country is quiet, can we build well."
+    },
+    {
+        "chinese_source": "他的罪还够不上行政警告处分。",
+        "english_target_correct": "His fault is still not enough for administrative warnings.",
+        "english_target_wrong": "His crime is not enough to for administrative warnings.."
+    },
+    {
+        "chinese_source": "犯了罪，就要受法律惩罚。",
+        "english_target_correct": "If you commit a crime, you will be punished by law.",
+        "english_target_wrong": "If you commit a fault, you will be punished by law."
+    },
+    {
+        "chinese_source": "他接到命令要求拔敌人岗楼。",
+        "english_target_correct": "He received an order to take the enemies'  watchtower.",
+        "english_target_wrong": "He received an order to pull the enemies' watchtower."
+    },
+    {
+        "chinese_source": "用火罐拔两下，痛苦就会减轻。",
+        "english_target_correct": "With a cupping twice, the pain will be alleviated.",
+        "english_target_wrong": "If you pull it out twice with a cupping, the pain will be alleviated."
+    },
+    {
+        "chinese_source": "保卫科的几个人把门特严，谁也别想私带公物出厂。",
+        "english_target_correct": "Several people in the security department guarded the entrance strictly, and no one could bring public properties out the factory secretely.",
+        "english_target_wrong": "Several people in the security department controlled over the mouth strictly, and no one could bring public property out the factory secretely."
+    },
+    {
+        "chinese_source": "言多必失，嘴上要有个把门的。",
+        "english_target_correct": "One is bound to have a slip of the tongue if he talks too much, so we sometimes should keep our mouths shut.",
+        "english_target_wrong": "One is bound to have a slip of the tongue if he talks too much, so you need a doorman on your mouth."
+    },
+    {
+        "chinese_source": "白了他一眼。",
+        "english_target_correct": "gave him an angry stare.",
+        "english_target_wrong": "Gave him a white look."
+    },
+    {
+        "chinese_source": "白跑了一趟。",
+        "english_target_correct": "had a wasted journey.",
+        "english_target_wrong": " ran for nothing."
+    },
+    {
+        "chinese_source": "他猜谜语百发百中。",
+        "english_target_correct": "He is good at guessing riddles.",
+        "english_target_wrong": "When he guessed riddles, he always could shot right without a miss"
+    },
+    {
+        "chinese_source": "他是神枪手，百发百中。",
+        "english_target_correct": "He is a sharpshooter and the shooting is accurate.",
+        "english_target_wrong": "He is a sharpshooter and has a good grasp of doing things."
+    },
+    {
+        "chinese_source": "你的嘴太快了。",
+        "english_target_correct": "You spoke too fast.",
+        "english_target_wrong": "Your mouth was too fast."
+    },
+    {
+        "chinese_source": "他的嘴可不小。",
+        "english_target_correct": "His mouth is not small.",
+        "english_target_wrong": "His speak is not small."
+    },
+    {
+        "chinese_source": "我国有我国的国情，完全搬人家的管理方法不行。",
+        "english_target_correct": "Our national conditions is different from other countries, so it is impossible to completely use others' management methods ",
+        "english_target_wrong": "Our national conditions is different from other countries, so it is impossible to completely  move people's management methods."
+    },
+    {
+        "chinese_source": "把花盆搬到阳台上去。",
+        "english_target_correct": "Move the flower pot to the balcony.",
+        "english_target_wrong": "Use the flower pot to the balcony."
+    },
+    {
+        "chinese_source": "他板着面孔，显得很生气的样子。",
+        "english_target_correct": "His kept a straight face and looked very angry.",
+        "english_target_wrong": "His face is hard and looks very angry."
+    },
+    {
+        "chinese_source": "地很板，不好犁。 ",
+        "english_target_correct": "The ground is very hard and make it difficult to be ploughed.",
+        "english_target_wrong": "The ground is very straight, not easy to ploughed"
+    },
+    {
+        "chinese_source": "那时候的留学生要住一年预科。",
+        "english_target_correct": "At that time, international students were required to take a one-year preparatory course.",
+        "english_target_wrong": "At that time, international students were required to live in a one-year preparatory course."
+    },
+    {
+        "chinese_source": "我家住在黄土高坡。",
+        "english_target_correct": "My family lives in the loess high slope.",
+        "english_target_wrong": "My family is engaged in high loess on the loess."
+    },
+    {
+        "chinese_source": "这块地不薄。",
+        "english_target_correct": "This land is fertile.",
+        "english_target_wrong": "This land is not thin."
+    },
+    {
+        "chinese_source": "书架格子太薄承受不住书的压力。",
+        "english_target_correct": "The grid on the bookshelf is too thin to bear the pressure of the books.",
+        "english_target_wrong": "The bookshelf grid is not fertile enough to bear the pressure of the books."
+    },
+    {
+        "chinese_source": "大臣们准备奏一份奏折。",
+        "english_target_correct": "The ministers were ready to write a memorial.",
+        "english_target_wrong": "The ministers were ready to play a memorial."
+    },
+    {
+        "chinese_source": "一群学生正在奏国歌。",
+        "english_target_correct": "A group of students are playing the national anthem.",
+        "english_target_wrong": "A group of students are writing the national anthem."
+    },
+    {
+        "chinese_source": "一颗子弹报销一个敌人。",
+        "english_target_correct": "A bullet eliminates an enemy.",
+        "english_target_wrong": "A bullet reimburses an enemy."
+    },
+    {
+        "chinese_source": "这批扳手要向厂里报销另领新的。",
+        "english_target_correct": "These wrenches will be reimbursed to the factory for new ones.",
+        "english_target_wrong": "These wrenches will be eliminated to the factory for new ones."
+    },
+    {
+        "chinese_source": "合理支配工作与学习。",
+        "english_target_correct": "Arrange work and study properly.",
+        "english_target_wrong": "Reasonable control of  work and study."
+    },
+    {
+        "chinese_source": "行动是受思想支配的。",
+        "english_target_correct": "Action is controlled by thought.",
+        "english_target_wrong": "Action is arranged by thought."
+    },
+    {
+        "chinese_source": "这个房间里的小孩需要整治。",
+        "english_target_correct": "The children in this room need to be punished.",
+        "english_target_wrong": "The children in this room need to be repaired."
+    },
+    {
+        "chinese_source": "这辆自行车需要整治。",
+        "english_target_correct": "This bike needs repair.",
+        "english_target_wrong": "This bicycle needs punishment."
+    },
+    {
+        "chinese_source": "他在文章中多次援引了古文。",
+        "english_target_correct": "He cited ancient proses for many times in his article.",
+        "english_target_wrong": "He recommended ancient text many times in the article."
+    },
+    {
+        "chinese_source": "他擅长于援引未被发掘的人才。",
+        "english_target_correct": "He is good at recommending undiscovered talent.",
+        "english_target_wrong": "He is good at citing undiscovered talent."
+    },
+    {
+        "chinese_source": "他逼他父母买钢琴。",
+        "english_target_correct": "He forced his parents to buy a piano.",
+        "english_target_wrong": "He approached his parents to buy a piano."
+    },
+    {
+        "chinese_source": "大军已逼城郊。",
+        "english_target_correct": "The army has approached the suburbs.",
+        "english_target_wrong": "The army has forced the suburbs."
+    },
+    {
+        "chinese_source": "比着身子做衣服。",
+        "english_target_correct": "take measurement to make clothes.",
+        "english_target_wrong": "Compare your body to make clothes."
+    },
+    {
+        "chinese_source": "今年不比往年。",
+        "english_target_correct": "This year can't be compared with previous years.",
+        "english_target_wrong": "This year cannot be measured as the years  before."
+    },
+    {
+        "chinese_source": "晚饭后散步是他的必修课。",
+        "english_target_correct": "Walking after dinner is a must for him.",
+        "english_target_wrong": "Walking after dinner is his compulsory course."
+    },
+    {
+        "chinese_source": "现代汉语是我们的必修课。",
+        "english_target_correct": "Modern Chinese is our compulsory course.",
+        "english_target_wrong": "Modern Chinese is a must for us."
+    },
+    {
+        "chinese_source": "链条和齿轮咬住了。 ",
+        "english_target_correct": "The chain was stuck in the gear.",
+        "english_target_wrong": "The Chains and gears are biting."
+    },
+    {
+        "chinese_source": "你要说实话，不要乱咬别人。",
+        "english_target_correct": "You have to tell the truth, and don't involve others into this.",
+        "english_target_wrong": "You have to tell the truth and don't bite others."
+    },
+    {
+        "chinese_source": "我们决不让祖国的江山变色。",
+        "english_target_correct": "We will never let the motherland's mountains and rivers change to the wrong direction.",
+        "english_target_wrong": "We will never let the motherland's mountains and rivers change color."
+    },
+    {
+        "chinese_source": "这种广告颜料质量好，不变色。",
+        "english_target_correct": "This kind of advertising pigment is of good quality and does not change color.",
+        "english_target_wrong": "This kind of advertising pigments are of good quality and do not change in the wrong direction."
+    },
+    {
+        "chinese_source": "这届全运会，我省派出了四百名选手参战。",
+        "english_target_correct": "In this National Games, our province assigned 400 players to participate in the competition.",
+        "english_target_wrong": "In this National Games, the province assigned 400 players to participate in the war."
+    },
+    {
+        "chinese_source": "淮海战役打响后，解放军参战部队共约五十万人。",
+        "english_target_correct": "When the Huaihai Campaign started, the liberation troops had a total of about 500,000 people.",
+        "english_target_wrong": "When the Huaihai Campaign started, the PLA participated in the competition with a total of about 500,000 people."
+    },
+    {
+        "chinese_source": "他下马向观众示意。",
+        "english_target_correct": "He dismounted from his horses and gestured to the audience.",
+        "english_target_wrong": "He dismissed and gestured to the audience."
+    },
+    {
+        "chinese_source": "这个工程已经下马。 ",
+        "english_target_correct": "This project has been abandoned.",
+        "english_target_wrong": "This project has been dismounted."
+    },
+    {
+        "chinese_source": "这个工程师是一个大草包。",
+        "english_target_correct": "This engineer is a person who has no ability.",
+        "english_target_wrong": "This engineer is a big straw bag."
+    },
+    {
+        "chinese_source": "导演用草包当粮袋。",
+        "english_target_correct": "The director used the straw bag as a grain bag.",
+        "english_target_wrong": "The director used the incompetent person as a grain bag."
+    },
+    {
+        "chinese_source": "如果不用心，就治不好学。",
+        "english_target_correct": "If you don't study by heart, you can't do scholarly research.",
+        "english_target_wrong": "If you don't study by heart, you are unable to cure learnning."
+    },
+    {
+        "chinese_source": "他的脚气治好了。",
+        "english_target_correct": "His athlete's foot was cured.",
+        "english_target_wrong": "His athlete's foot was studied."
+    },
+    {
+        "chinese_source": "这些士兵已经抄了两次家。",
+        "english_target_correct": "These soldiers have searched and confiscated their homes twice.",
+        "english_target_wrong": "These soldiers have already copied two homes."
+    },
+    {
+        "chinese_source": "昨天没来上课的他正在抄笔记。",
+        "english_target_correct": "The man who didn' attend class yesterday was copying notes.",
+        "english_target_wrong": "The man who didn't attend class yesterday is  search and confiscating notes."
+    },
+    {
+        "chinese_source": "他赤身闯商界，如今已经是一家公司的董事长。",
+        "english_target_correct": "He started business by scratch but now is  the president of a company.",
+        "english_target_wrong": "He is naked when starting his business world, but now he is  the president of a company."
+    },
+    {
+        "chinese_source": "模特儿赤身裸体，是在为艺术献身。",
+        "english_target_correct": "The naked model is dedicated to art.",
+        "english_target_wrong": "The poor model is dedicated to art."
+    },
+    {
+        "chinese_source": "这个人戴着的表走了3分钟。",
+        "english_target_correct": "The watch worn by this person was turned for 3 minutes.",
+        "english_target_wrong": "The watch worn by this man walked for 3 minutes."
+    },
+    {
+        "chinese_source": "这个人走了3分钟。",
+        "english_target_correct": "This person walked for 3 minutes.",
+        "english_target_wrong": "This person turned for 3 minutes."
+    },
+    {
+        "chinese_source": "请你把这两句话串在一起。",
+        "english_target_correct": "Please put these two sentences together.",
+        "english_target_wrong": "Please string these two sentences together."
+    },
+    {
+        "chinese_source": "他正在串这座美丽城市的大街小巷。",
+        "english_target_correct": "He is visiting the streets of this beautiful city.",
+        "english_target_wrong": "He is putting the streets of this beautiful city together."
+    },
+    {
+        "chinese_source": "春意在两个年轻人的胸中荡漾。",
+        "english_target_correct": "Love is rippling in the chest of two young people.",
+        "english_target_wrong": "Spring is rippling in the chest of two young people."
+    },
+    {
+        "chinese_source": "春意盎然。",
+        "english_target_correct": "Spring is full of vitality.",
+        "english_target_wrong": "love is full of vitality."
+    },
+    {
+        "chinese_source": "这只猫正在到处乱窜。",
+        "english_target_correct": "The cat is running around.",
+        "english_target_wrong": "The cat is rushing up."
+    },
+    {
+        "chinese_source": "江水窜起来比桥都高。",
+        "english_target_correct": "The river jumped to a height  ,  and was higher than the bridge.",
+        "english_target_wrong": "The river ran away and was taller than the bridge."
+    },
+    {
+        "chinese_source": "他正在打军队急需要收到的一封电报。",
+        "english_target_correct": "He is sending a telegram that the army urgently needs.",
+        "english_target_wrong": "He is fighting a telegram that the army urgently needs."
+    },
+    {
+        "chinese_source": "他正在打他讨厌的那个人。",
+        "english_target_correct": "He is fighting the person he hates.",
+        "english_target_wrong": "He is sending the person he hates."
+    },
+    {
+        "chinese_source": "这条街有很多可以当首饰的店铺。",
+        "english_target_correct": "There are many pawnshops in this street where the jewelries can be pawned for money.",
+        "english_target_wrong": "There are many shops in this street that can be used as jewelry."
+    },
+    {
+        "chinese_source": "他不把这件事情当大的事情。",
+        "english_target_correct": "He does not take this matter as a big deal.",
+        "english_target_wrong": "He doesn't take this matter to pawn big matters."
+    },
+    {
+        "chinese_source": "那个女人嘴里往外倒粪。",
+        "english_target_correct": "That woman swears out in her mouth.",
+        "english_target_wrong": "The woman's mouth is pouring out the dung."
+    },
+    {
+        "chinese_source": "在没有卫生设备的住宅区，居民们每天早晨往指定的粪车里倒粪。",
+        "english_target_correct": "In residential areas without sanitation, residents pour out dung into designated manure vehicles every morning.",
+        "english_target_wrong": "In residential areas without sanitation, residents swear into designated manure vehicles every morning."
+    },
+    {
+        "chinese_source": "在他的名字下面画了一条道。",
+        "english_target_correct": "Draw a line under his name.",
+        "english_target_wrong": "Draw a path under his name."
+    },
+    {
+        "chinese_source": "前面没道啦，你还往哪走？",
+        "english_target_correct": "There is no road ahead,where are you going?",
+        "english_target_wrong": "There is no line in ahead, where are you going?"
+    },
+    {
+        "chinese_source": "这家商店用次品顶正品。",
+        "english_target_correct": "This store replaces genuine products with defective products.",
+        "english_target_wrong": "This stor tops the genuine with the defective ones."
+    },
+    {
+        "chinese_source": "店铺已经顶出去了。",
+        "english_target_correct": "The store has been transferred.",
+        "english_target_wrong": "The store has already been replaced."
+    },
+    {
+        "chinese_source": "一上考场，他心里就发毛。",
+        "english_target_correct": "As soon as he got to the examination room, he was panicked.",
+        "english_target_wrong": "As soon as he got to the examination room, he got hair in his heart."
+    },
+    {
+        "chinese_source": "稍不如意，他就发毛。",
+        "english_target_correct": "If he was a little unsatisfactory, he lost his temper.",
+        "english_target_wrong": "If he was a little unsatisfactory, he would be hairy."
+    },
+    {
+        "chinese_source": "局长受贿的事最近终于翻车了。",
+        "english_target_correct": "The director's bribery has been disclosed finnally.",
+        "english_target_wrong": "The director's bribery has been finally turned over."
+    },
+    {
+        "chinese_source": "这一带路面很容易翻车。",
+        "english_target_correct": "It is easy to turn over for cars on this on the roads in this area. ",
+        "english_target_wrong": "It is easy to disclose for cars on this on the roads in this area."
+    },
+    {
+        "chinese_source": "他的爱好就是钻书本。",
+        "english_target_correct": "His hobby is to dig into books.",
+        "english_target_wrong": "His hobby is to drill books."
+    },
+    {
+        "chinese_source": "在墙壁上钻一个小孔。",
+        "english_target_correct": "Drill a small hole in the wall.",
+        "english_target_wrong": "Dig into a small hole in the wall."
+    },
+    {
+        "chinese_source": "贩卖资产阶级的精神鸦片。",
+        "english_target_correct": "Inculcate the spiritual opium of the bourgeoisie.",
+        "english_target_wrong": "Trafficking the spiritual opium of the bourgeoisie."
+    },
+    {
+        "chinese_source": "贩卖毒品。",
+        "english_target_correct": "Trafficking in drugs.",
+        "english_target_wrong": "Inculcating in drugs."
+    },
+    {
+        "chinese_source": "听了他安慰的话，一股暖流涌上心头。(好像第二个是对的）",
+        "english_target_correct": "After listening to his words for comfort, a warm emotion came to my heart.",
+        "english_target_wrong": "After listening to his words for comfort, a warm current rushed into my heart."
+    },
+    {
+        "chinese_source": "这股暖流给这片海洋带去了丰富的食物资源。",
+        "english_target_correct": "This warm current brought a wealth of food resources to the ocean.",
+        "english_target_wrong": "This warm emotion brought a wealth of food resources to the ocean."
+    },
+    {
+        "chinese_source": "他这句话简直就是在拍卖青春。",
+        "english_target_correct": "His words is simply selling youth.",
+        "english_target_wrong": "His words is simply auctioning youth."
+    },
+    {
+        "chinese_source": "他的画被拍卖出了1万美元。",
+        "english_target_correct": "His paintings were auctioned for $10,000.",
+        "english_target_wrong": "His paintings were betrayed for $10,000."
+    },
+    {
+        "chinese_source": "银行工作肥的很。",
+        "english_target_correct": "Working in the bank means high income",
+        "english_target_wrong": "Bank work is very fat."
+    },
+    {
+        "chinese_source": "这条连衣裙肥了点。",
+        "english_target_correct": "This dress is a bit loose.",
+        "english_target_wrong": "This dress have high income."
+    },
+    {
+        "chinese_source": "沸腾的群众运动场面。",
+        "english_target_correct": "The boiling scene of the mass movement.",
+        "english_target_wrong": "The scene of the boiling mass movement."
+    },
+    {
+        "chinese_source": "沸腾的汤。",
+        "english_target_correct": "Boiling soup.",
+        "english_target_wrong": "Soup with high emotions."
+    },
+    {
+        "chinese_source": "调查组的同志分发各个地方。                                               ",
+        "english_target_correct": "The comrades of the investigation team were distributed to the various places.",
+        "english_target_wrong": "The comrades of the investigation team distributed the various places."
+    },
+    {
+        "chinese_source": "调查组的同志分发劳保用品 。",
+        "english_target_correct": "The comrades of the investigation team distributed personal protective equipments.",
+        "english_target_wrong": "The comrades of the investigation team were distributed personal protective equipments."
+    },
+    {
+        "chinese_source": "请大家不要在发传单时分散自己的注意力。",
+        "english_target_correct": "Please don't distract yourself when you send out flyers.",
+        "english_target_wrong": "Please don't distribute yourself when you send out flyers."
+    },
+    {
+        "chinese_source": "请大家分散自己手上的传单。",
+        "english_target_correct": "Please distribute the flyers in your hand.",
+        "english_target_wrong": "Please distract the flyers in your hand."
+    },
+    {
+        "chinese_source": "今年风调雨顺，农民的秋景一定很好。",
+        "english_target_correct": "This year's weather is good, and the harvest of the farmers' autumn must be very good.",
+        "english_target_wrong": "This year's weather is good, and the autumn scenery of the farmers must be very good."
+    },
+    {
+        "chinese_source": "这个旅游城市的秋景很好。",
+        "english_target_correct": "The autumn scenery of this tourist city is very good.",
+        "english_target_wrong": "The autumn harvest of this tourist city is very good."
+    },
+    {
+        "chinese_source": "打探风声。",
+        "english_target_correct": "Inquire about the news.",
+        "english_target_wrong": "Inquire about the  sound of wind."
+    },
+    {
+        "chinese_source": "听着窗外的风声，他一夜都没睡觉。",
+        "english_target_correct": "hearing the sounds of the wind outside the window, he didn't sleep all night.",
+        "english_target_wrong": "hearing the news outside the window, he didn't sleep all night."
+    },
+    {
+        "chinese_source": "这药用温水送服。",
+        "english_target_correct": "This mediciine is taken with warm water.",
+        "english_target_wrong": "This medicine is served with  warm water."
+    },
+    {
+        "chinese_source": "不要以势压人，而要以理服人。",
+        "english_target_correct": "Don't press people with power, but convince them by easonning.",
+        "english_target_wrong": "Don't press people with power, but serve others by reasoning."
+    },
+    {
+        "chinese_source": "他是个老江湖了。",
+        "english_target_correct": "He is a man who has a lot of experience.",
+        "english_target_wrong": "He is an old rivers and lakes"
+    },
+    {
+        "chinese_source": "他自十四岁起，便流落江湖。",
+        "english_target_correct": "Since he was fourteen, he has leaded a vagabond life.",
+        "english_target_wrong": "Since he was fourteen, he has flown into the rivers and lakes."
+    },
+    {
+        "chinese_source": "他在官场已经浮沉过好几次了，很有经验。",
+        "english_target_correct": "He has  experienced several ups and downs in the official circle, so he is quite experienced",
+        "english_target_wrong": "He has floated and sunk in the official circile for  several times, so he is quite experienced."
+    },
+    {
+        "chinese_source": "小船随着巨浪在海上浮沉。",
+        "english_target_correct": "The boat drifted on the sea with huge waves.",
+        "english_target_wrong": "The boat has  experienced ups and downs on the sea with huge waves."
+    },
+    {
+        "chinese_source": "这些建筑工人正在盖的是一个专门用于卖被子的商场。",
+        "english_target_correct": "These builders are building a shopping mall specialized in  selling quilts.",
+        "english_target_wrong": "These builders are coveringa shopping mall specialized in  selling quilts.."
+    },
+    {
+        "chinese_source": "在这种寒冷的天他只盖一床毛毯睡觉。",
+        "english_target_correct": "On this cold day he was only covered with a blanket to sleep.",
+        "english_target_wrong": "On this cold day he only built a blanket to sleep."
+    },
+    {
+        "chinese_source": "老师在他的作文本上画了许多杠。",
+        "english_target_correct": "The teacher drew a lot of lines on his text.",
+        "english_target_wrong": "The teacher drew a lot of bars on his text."
+    },
+    {
+        "chinese_source": "他手上拿着一条长长的杠。",
+        "english_target_correct": "He has a long bar in his hand.",
+        "english_target_wrong": "He has a long line in his hand."
+    },
+    {
+        "chinese_source": "唱歌唱到高调的时候，他的嗓子顶不上去了。",
+        "english_target_correct": "When the song was pitched high , he could not raises his voice.",
+        "english_target_wrong": "When the song was high-profile , he could not raises his voice."
+    },
+    {
+        "chinese_source": "他说的内容是挺高调的，但并不容易做到。",
+        "english_target_correct": "What he said is quite high-profile, but it is not easy to do.",
+        "english_target_wrong": "What he said is pitched high, but it is not easy to do."
+    },
+    {
+        "chinese_source": "他的写作计划搁浅了。",
+        "english_target_correct": "His writing plan cannot be carried out.",
+        "english_target_wrong": "His writing plan has  been stranded."
+    },
+    {
+        "chinese_source": "这艘货船搁浅了，要想办法从陆路运输了。",
+        "english_target_correct": "The cargo ship was stranded， so it was necessary to work out a way to  transport  by land.",
+        "english_target_wrong": "The cargo ship cannot be carried out, so it was necessary to work out  a way to transport by land."
+    },
+    {
+        "chinese_source": "主力部队已经对敌人的建筑展开了攻关。",
+        "english_target_correct": "The main force has already launched an attack on the enemy's building.",
+        "english_target_wrong": "The main force has already launched a research on the enemy's building."
+    },
+    {
+        "chinese_source": "经过两年的攻关，终于解决了这道技术难题。",
+        "english_target_correct": "After two years' research, this technical problem was finally solved.",
+        "english_target_wrong": "After two years' attack, this technical problem was finally solved."
+    },
+    {
+        "chinese_source": "这个器物还不知道是哪一年的古董。",
+        "english_target_correct": "The year when this antique was made is unkown.",
+        "english_target_wrong": "The year when this old fogey was made is unkown."
+    },
+    {
+        "chinese_source": "与他交流过的人都认为这个人是个古董。",
+        "english_target_correct": "Anyone who has talked with him thinks this person is antique.",
+        "english_target_wrong": "Anyone who has talked with him thinks this person is old fogey ."
+    },
+    {
+        "chinese_source": "车上的雨刷正在刮玻璃。",
+        "english_target_correct": "The wiper on the car is scraping the windscreen.",
+        "english_target_wrong": "The wiper on the car is fleecing the windscreen.."
+    },
+    {
+        "chinese_source": "这小两口经常刮父母。",
+        "english_target_correct": "This young couple often fleeced  their parents.",
+        "english_target_wrong": "The young couple often scrape their parents."
+    },
+    {
+        "chinese_source": "他的心里还是挂着厂里的事情。",
+        "english_target_correct": "His heart was still worried about the things in the factory.",
+        "english_target_wrong": "His heart still hungs the things in the factory."
+    },
+    {
+        "chinese_source": "天上挂着月亮。",
+        "english_target_correct": "The moon is hanging in the sky.",
+        "english_target_wrong": "The sky was worried about the moon."
+    },
+    {
+        "chinese_source": "办事真不容易，哪一个关节都可能卡壳。",
+        "english_target_correct": "Carrying out this matter is not easy, for it may got stuck in every procedure.",
+        "english_target_wrong": "Carrying out this matter is not easy, for it may got stuck in every joints."
+    },
+    {
+        "chinese_source": "每到下雨的时候，她就感到浑身关节酸痛。",
+        "english_target_correct": "Every time when it rains, her joints are ache.",
+        "english_target_wrong": "Every time it rains, her procedures are ache."
+    },
+    {
+        "chinese_source": "我起早惯了，睡懒觉不舒服。",
+        "english_target_correct": "I get used to geting up early, and I don't feel well when I get up late.",
+        "english_target_wrong": "I spoil in get up early  and I don't feel well when I get up late."
+    },
+    {
+        "chinese_source": "现在有些家庭，经常是惯孩子。",
+        "english_target_correct": "Some families nowadays often spoil their children.",
+        "english_target_wrong": "Some families nowadays often get used to their children."
+    },
+    {
+        "chinese_source": "他做了不该做的事情，心中有鬼。",
+        "english_target_correct": "He did something that should not be done, so he was quite guilty.",
+        "english_target_wrong": "He did something that should not be done, so there are ghosts in his heart."
+    },
+    {
+        "chinese_source": "家里的父母经常用有关于鬼的故事来吓唬小孩。",
+        "english_target_correct": "Parents at home often use stories about ghosts to scare children.",
+        "english_target_wrong": "Parents at home often use stories about guilty to scare children."
+    },
+    {
+        "chinese_source": "对于这件事情，他心里有着谱。",
+        "english_target_correct": "For this matter, he has assurance in his heart.",
+        "english_target_wrong": "For this matter, he has a spectrum in his heart."
+    },
+    {
+        "chinese_source": "一束光通过棱镜就会形成光谱。",
+        "english_target_correct": "A beam of light passes through the prism to form a spectrum.",
+        "english_target_wrong": "A beam of light passes through the prism to form a assurance."
+    },
+    {
+        "chinese_source": "野草横生。",
+        "english_target_correct": "The grasses grew wildly.",
+        "english_target_wrong": "The grasses happen unexpectedly."
+    },
+    {
+        "chinese_source": "车祸横生。",
+        "english_target_correct": "The car accident happened unexpectedly.",
+        "english_target_wrong": "The car accident grew wildly."
+    },
+    {
+        "chinese_source": "他从后门搞到了不少名酒。",
+        "english_target_correct": "He got a lot of famous wines from the road of fraud.",
+        "english_target_wrong": "He got a lot of famous wines from the back door."
+    },
+    {
+        "chinese_source": "离后门不远的地方有一口小池塘。",
+        "english_target_correct": "There is a small pond not far from the back door.",
+        "english_target_wrong": "There is a small pond not far from the road of fraud."
+    },
+    {
+        "chinese_source": "丁老汉这手绝门，连他女儿都不会。",
+        "english_target_correct": "Even  Ding Laohan’s daughter does not master his unique skill.",
+        "english_target_wrong": "Ding Laohan has no descendants, even his daughter will not have."
+    },
+    {
+        "chinese_source": "这家都绝门了，已经没有人了。",
+        "english_target_correct": "As this family has no descendants, so there is no one existing in the family",
+        "english_target_wrong": "This family is absolutely closed, no one is there."
+    },
+    {
+        "chinese_source": "幼儿园的老师精心培育着祖国的花朵。",
+        "english_target_correct": "Kindergarten teachers carefully cultivate children in the motherland.",
+        "english_target_wrong": "Kindergarten teachers carefully cultivated the flowers of the motherland."
+    },
+    {
+        "chinese_source": "再艳丽的花朵也有凋谢的时候。",
+        "english_target_correct": "The brightest flowers would also be withered.",
+        "english_target_wrong": "The brightest children would also be withered."
+    },
+    {
+        "chinese_source": "公司招聘了几个花瓶，是专门用来招待客人的。",
+        "english_target_correct": "The company recruited several beautiful persons to entertain guests.",
+        "english_target_wrong": "The company recruited several beautiful vases to entertain guests."
+    },
+    {
+        "chinese_source": "无人的客厅里放着一只漂亮的花瓶。",
+        "english_target_correct": "There is a beautiful vase in the empty living room .",
+        "english_target_wrong": "There is a beautiful person in the empty  living room."
+    },
+    {
+        "chinese_source": "暴雨引起的大面积山体的滑坡引起了政府的高度重视。",
+        "english_target_correct": "The massive landslides caused by heavy rains got a great deal of attention from government.",
+        "english_target_wrong": "The massive decline  caused by heavy rains got a great deal of attention from government."
+    },
+    {
+        "chinese_source": "这家工厂收集到的树木数量一直在滑坡，导致产量一直低下。",
+        "english_target_correct": "The number of trees collected by this factory has been declining, resulting in low yields.",
+        "english_target_wrong": "The number of trees collected by this factory has been landslides, resulting in low yields."
+    },
+    {
+        "chinese_source": "他正在回家里给他写的信。",
+        "english_target_correct": "He is replying the letter which his family wrote to him.",
+        "english_target_wrong": "He is going home  a letter to him."
+    },
+    {
+        "chinese_source": "他正在坐车回家。",
+        "english_target_correct": "He is going home by car.",
+        "english_target_wrong": "He is on the car replying home."
+    },
+    {
+        "chinese_source": "他去年回炉，想再考一次大学。",
+        "english_target_correct": "He studied again last year and wanted to take university entrance exam again.",
+        "english_target_wrong": "He returned to the furnace last year and wanted to take university entrance exam again."
+    },
+    {
+        "chinese_source": "这些废铜需要回炉。",
+        "english_target_correct": "These scrap copper needs to be returned to the furnace.",
+        "english_target_wrong": "These scrap copper needs to study again."
+    },
+    {
+        "chinese_source": "在巡视这里3个月之后，纪委又给了一个回马枪。",
+        "english_target_correct": "After three months of inspecting here, the Commission for Discipline Inspection gave a sudden return visit.",
+        "english_target_wrong": "After three months of inspecting here, the Commission for Discipline Inspection gave a sudden counterattack."
+    },
+    {
+        "chinese_source": "在战场上他给了敌人一个回马枪。",
+        "english_target_correct": "On the battlefield he gave the enemy a sudden counterattack.",
+        "english_target_wrong": "On the battlefield he gave the enemy a sudden return visit."
+    },
+    {
+        "chinese_source": "他对着山谷大喊，收到的只有回音。",
+        "english_target_correct": "He shouted at the valley alone, and only received an echo.",
+        "english_target_wrong": "He shouted at the valley alone, and only received a reply."
+    },
+    {
+        "chinese_source": "他按了半天的门铃，没有收到屋子里的回音。",
+        "english_target_correct": "He pressed the doorbell for a long time and did not receive a reply from the room.",
+        "english_target_wrong": "He pressed the doorbell for a long time and did not receive an echo from the room."
+    },
+    {
+        "chinese_source": "他的说话充满火药味。",
+        "english_target_correct": "His words are combative.",
+        "english_target_wrong": "His words are full of smell of gunpowder."
+    },
+    {
+        "chinese_source": "战场上充满了火药味。",
+        "english_target_correct": "The battlefield was full of the smell of gunpowder.",
+        "english_target_wrong": "The battlefield was combative."
+    },
+    {
+        "chinese_source": "好的作品要经过多次的锤炼。",
+        "english_target_correct": "Good works have to be revised many times.",
+        "english_target_wrong": "Good works have to be hammered many times."
+    },
+    {
+        "chinese_source": "好的钢铁要经过多次的锤炼。",
+        "english_target_correct": "Good steel has to be hammered many times.",
+        "english_target_wrong": "Good steel has to be revised many times."
+    },
+    {
+        "chinese_source": "孩子已经在很努力准备高考了，不要再给他加温了。",
+        "english_target_correct": "The child has already been hardworking enough for the college entrance examination, so it is unnecessary to impose additional pressure.",
+        "english_target_wrong": "The child has already been hardworking enough for the college entrance examination, so it is unnecessary to heat him up anymore."
+    },
+    {
+        "chinese_source": "冷饭最好还是加温后再吃。",
+        "english_target_correct": "Cold food should be heated up before eatting.",
+        "english_target_wrong": "Cold food should be imposed on additional pressure before eatting."
+    },
+    {
+        "chinese_source": "这个家伙太笨重，不好拿得动。",
+        "english_target_correct": "This thing is too cumbersome to take.",
+        "english_target_wrong": "This guy is too cumbersome to take."
+    },
+    {
+        "chinese_source": "这个家伙没有怀着好意。",
+        "english_target_correct": "This guy had no good intentions.",
+        "english_target_wrong": "This thing had no good intentions."
+    },
+    {
+        "chinese_source": "计划一定要有相应的合理的措施，才不会架空。",
+        "english_target_correct": "There must be corresponding reasonable measures in the plan, otherwise the plan would be  impracticable.",
+        "english_target_wrong": "There must be corresponding reasonable measures in the plan, otherwise the plan would be  overhead."
+    },
+    {
+        "chinese_source": "这栋房子是架空的，离地有5尺高。",
+        "english_target_correct": "The house is overhead and 5 feet above the ground.",
+        "english_target_wrong": "The house is  impracticable and 5 feet above the ground."
+    },
+    {
+        "chinese_source": "写小说前要先搭好小说的架子。",
+        "english_target_correct": "Before writing a novel, you must first set up the organizational structure of the novel.",
+        "english_target_wrong": "Before you write a novel, you must first set up the shelf of the novel."
+    },
+    {
+        "chinese_source": "他的家中有一个很大的书架子。",
+        "english_target_correct": "There is a big bookshelf in his home.",
+        "english_target_wrong": "There is a big book structure in his home."
+    },
+    {
+        "chinese_source": "今年西瓜很贱。",
+        "english_target_correct": "This year watermelon was very cheap.",
+        "english_target_wrong": "This year watermelon was very embarrassing."
+    },
+    {
+        "chinese_source": "他这个人就是很贱。",
+        "english_target_correct": "He is a very despicable person.",
+        "english_target_wrong": "He is a cheap person."
+    },
+    {
+        "chinese_source": "二手市场卖的一般都是贱货。",
+        "english_target_correct": "The second-hand market generally sells cheap goods.",
+        "english_target_wrong": "The second-hand market generally sells despicable  person."
+    },
+    {
+        "chinese_source": "他这个人就是一个贱货。",
+        "english_target_correct": "He is a man who is a despicable  person.",
+        "english_target_wrong": "He is a man who is cheap goods."
+    },
+    {
+        "chinese_source": "他打算叫四个菜。",
+        "english_target_correct": "He plans to order four dishes.",
+        "english_target_wrong": "He plans to call four dishes."
+    },
+    {
+        "chinese_source": "病人的嘴里叫着他妻子的名字。",
+        "english_target_correct": "The patient called his wife's name.",
+        "english_target_wrong": "The patient ordered his wife's name."
+    },
+    {
+        "chinese_source": "这个夫妻俩又因为孩子的事情在屋内接火了。",
+        "english_target_correct": "The couple  quarreled in the house because of the child's affairs again.",
+        "english_target_wrong": "The couple fired in the house because of the child's affairs again."
+    },
+    {
+        "chinese_source": "这支部队在行走的途中与敌人接火了。",
+        "english_target_correct": "This troop caught fire with the enemy on the way.",
+        "english_target_wrong": "This troop quarreled with the enemy on the way."
+    },
+    {
+        "chinese_source": "这个鞋带他只用10秒钟就能解。",
+        "english_target_correct": "This shoelace can be undid in only 10 seconds.",
+        "english_target_wrong": "This shoelace can be solved in only 10 seconds."
+    },
+    {
+        "chinese_source": "这道数学题非常难解。",
+        "english_target_correct": "This math problem is very difficult to solve.",
+        "english_target_wrong": "This math problem is very difficult to undid."
+    },
+    {
+        "chinese_source": "电话铃声截断了他的话。",
+        "english_target_correct": "The phone ringing interrupted his words.",
+        "english_target_wrong": "The phone ringing cut off his words."
+    },
+    {
+        "chinese_source": "这颗大树被从中间截断了。",
+        "english_target_correct": "This big tree was cut off from the middle.",
+        "english_target_wrong": "This big tree was interrupted from the middle."
+    },
+    {
+        "chinese_source": "为了利益，他把朋友给卖了。",
+        "english_target_correct": "For the sake of profit, he betrayed his friend.",
+        "english_target_wrong": "For the sake of profit, he sold his friend."
+    },
+    {
+        "chinese_source": "他在校门口卖鸡蛋。",
+        "english_target_correct": "He sells eggs at the school gate.",
+        "english_target_wrong": "He betrays eggs at the school gate."
+    },
+    {
+        "chinese_source": "他进了一家卖鞋的商店。",
+        "english_target_correct": "He entered a shop selling shoes.",
+        "english_target_wrong": "He purchase a shop selling shoes to stock."
+    },
+    {
+        "chinese_source": "他进了一批鞋。",
+        "english_target_correct": "He purchased a stock of shoes",
+        "english_target_wrong": "He entered a stock of shoes."
+    },
+    {
+        "chinese_source": "我不愿意挖别人公司的墙角。",
+        "english_target_correct": "I don't want to poach from other company.",
+        "english_target_wrong": "I don't want to dig the corners of other companies."
+    },
+    {
+        "chinese_source": "墙角下堆着很多砖头。",
+        "english_target_correct": "There are a lot of bricks under the corner.",
+        "english_target_wrong": "There are a lot of bricks under the poaching."
+    },
+    {
+        "chinese_source": "这周月底是开保洁人员的工资的时候。",
+        "english_target_correct": "The end of this week is the time to pay the salary of the cleaning staff.",
+        "english_target_wrong": "The end of this week is the time to open the salary of the cleaning staff."
+    },
+    {
+        "chinese_source": "屋里好闷，需要开窗户。",
+        "english_target_correct": "The house is so stuffy that you need to open the window.",
+        "english_target_wrong": "The house is so stuffy that you need to pay the window."
+    },
+    {
+        "chinese_source": "你要干出大事业，就肯定会摔跤。",
+        "english_target_correct": "If you want to have a big business, you will definitely suffer failure.",
+        "english_target_wrong": "If you want to have a big business, you will definitely stumble and fell."
+    },
+    {
+        "chinese_source": "路很滑，你注意不要摔跤。",
+        "english_target_correct": "The road is very slippery, so you must pay attention not to stumble and fell",
+        "english_target_wrong": "The road is very slippery, so you must  pay attention not to suffer failure."
+    },
+    {
+        "chinese_source": "工厂亏损了数十万元。",
+        "english_target_correct": "The factory lost hundreds of thousands of yuan.",
+        "english_target_wrong": "The factory weaken hundreds of thousands of yuan."
+    },
+    {
+        "chinese_source": "他的身体在连续工作了数天后亏损了。",
+        "english_target_correct": "His body was weak after working for several days in a row.",
+        "english_target_wrong": "His body lost money after working for several days in a row."
+    },
+    {
+        "chinese_source": "他愁苦很久的心事终于落地了。",
+        "english_target_correct": "His melancholy mind for a long time was finally relieved.",
+        "english_target_wrong": "His melancholy mind for a long time was finally landed."
+    },
+    {
+        "chinese_source": "秋天的树叶纷纷落地了。",
+        "english_target_correct": "The autumn leaves all have fallen to the land.",
+        "english_target_wrong": "The autumn leaves all have relieved."
+    },
+    {
+        "chinese_source": "他有关怀孕女性的研究在当前研究条件下容易陷入难产的境地。",
+        "english_target_correct": "His research on pregnant women is prone to be difficult of fulfillment under current research conditions.",
+        "english_target_wrong": "His research on pregnant women is prone to dystocia under current research conditions."
+    },
+    {
+        "chinese_source": "中年妇女的怀孕容易难产。",
+        "english_target_correct": "The middle-aged pregnant is prone to suffer dystocia.",
+        "english_target_wrong": "The middle-aged pregnant is difficult of fulfillmet."
+    },
+    {
+        "chinese_source": "这句话是引用古书里的。",
+        "english_target_correct": "This words is quoted in the ancient book.",
+        "english_target_wrong": "This sentence is appointed in the ancient book."
+    },
+    {
+        "chinese_source": "他引用的都是他的亲戚。",
+        "english_target_correct": "All of the person he appointed were his relatives.",
+        "english_target_wrong": "All of the person he quoted were his relatives."
+    },
+    {
+        "chinese_source": "这部发动机的内耗很严重。",
+        "english_target_correct": "The internal friction of this engine is very serious.",
+        "english_target_wrong": "The internal disputes of this engine is very serious."
+    },
+    {
+        "chinese_source": "他们部门的内耗很严重。",
+        "english_target_correct": "The internal incoordination of their department is very serious.",
+        "english_target_wrong": "The internal friction of their department is very serious."
+    },
+    {
+        "chinese_source": "他站在远处接小球。",
+        "english_target_correct": "He stood in the distance to pick up the ball.",
+        "english_target_wrong": "He stood in the distance to take over the ball."
+    },
+    {
+        "chinese_source": "他打算接厂长的工作。",
+        "english_target_correct": "He intends to take over the work of the factory manager.",
+        "english_target_wrong": "He intends to pick up the work of the factory manager."
+    },
+    {
+        "chinese_source": "他的手一接触到火，就收回来了。",
+        "english_target_correct": "When his hand touched the fire, he withdrew it.",
+        "english_target_wrong": "When his hand contacted the fire, he withdrew it."
+    },
+    {
+        "chinese_source": "我们已经与敌人接触过了。",
+        "english_target_correct": "We have engaged the enemy.",
+        "english_target_wrong": "We have touched the enemy."
+    },
+    {
+        "chinese_source": "先冷一下这件事情。",
+        "english_target_correct": "Let's stop this thing first.",
+        "english_target_wrong": "Let's cool this thing off first."
+    },
+    {
+        "chinese_source": "先冷一下这个热茶。",
+        "english_target_correct": "Let's cool this hot tea off first.",
+        "english_target_wrong": "Let's stop this hot tea first."
+    },
+    {
+        "chinese_source": "年已老了。",
+        "english_target_correct": "The age is old.",
+        "english_target_wrong": "The year is old."
+    },
+    {
+        "chinese_source": "一年有365天。",
+        "english_target_correct": "There are 365 days a year.",
+        "english_target_wrong": "There are 365 days a age."
+    },
+    {
+        "chinese_source": "他有着宽厚的声音。",
+        "english_target_correct": "He has a rich voice.",
+        "english_target_wrong": "He has a generous voice."
+    },
+    {
+        "chinese_source": "他是个宽厚的人，深得大家的尊敬。",
+        "english_target_correct": "He is a generous person and has won the respect of everyone.",
+        "english_target_wrong": "He is a rich person and has won the respect of everyone."
+    },
+    {
+        "chinese_source": "小孩儿喜欢拉扯别人。",
+        "english_target_correct": "Children like pulling others.",
+        "english_target_wrong": "Children like to bring others up."
+    },
+    {
+        "chinese_source": "我把你拉扯长大。",
+        "english_target_correct": "I brought you up.",
+        "english_target_wrong": "I pulled you."
+    },
+    {
+        "chinese_source": "这家知名企业是行业中的龙头。",
+        "english_target_correct": "This well-known company is the leader in the industry.",
+        "english_target_wrong": "This well-known company is the faucet in the industry."
+    },
+    {
+        "chinese_source": "请师父来修一修龙头。",
+        "english_target_correct": "Ask repairman to repair the faucet.",
+        "english_target_wrong": "Ask repairman to repair the leader."
+    },
+    {
+        "chinese_source": "他不停地捏弄手中的橡皮泥。",
+        "english_target_correct": "He kept pinching the plasticine in his hand.",
+        "english_target_wrong": "He kept producing the plasticine in his hand."
+    },
+    {
+        "chinese_source": "这是他捏弄出来的新事物。",
+        "english_target_correct": "This is the new thing he produced.",
+        "english_target_wrong": "This is the new thing he pinched."
+    },
+    {
+        "chinese_source": "他在干活的时候扭了腰。",
+        "english_target_correct": "He strained his back while he was working.",
+        "english_target_wrong": "He correct his back while he was working."
+    },
+    {
+        "chinese_source": "他扭了他自己的坏习惯。",
+        "english_target_correct": "He corrected his own bad habits.",
+        "english_target_wrong": "He twisted his own bad habits."
+    },
+    {
+        "chinese_source": "他扭曲着身体，摇摇晃晃地走着。",
+        "english_target_correct": "He twisted his body and staggered.",
+        "english_target_wrong": "He distorted his body and staggered."
+    },
+    {
+        "chinese_source": "他的灵魂被这件事情扭曲了。",
+        "english_target_correct": "His soul was distorted by this thing.",
+        "english_target_wrong": "His soul was twisted by this thing."
+    },
+    {
+        "chinese_source": "遇到地震，他立马趴下了。",
+        "english_target_correct": "In the event of an earthquake, he immediately threw himself down.",
+        "english_target_wrong": "In the event of an earthquake, he immediately collapsed."
+    },
+    {
+        "chinese_source": "遇到一点困难，他立马趴下了。",
+        "english_target_correct": "After running up against a little difficulty, he immediately collapsed.",
+        "english_target_wrong": "After running up against a little difficulty, he immediately threw himself down"
+    },
+    {
+        "chinese_source": "他们正在拍摄浪涛拍堤岸的场景。",
+        "english_target_correct": "They are shooting scenes  of waves crashing into the embankment.",
+        "english_target_wrong": "They are shooting scenes of the waves taking pictures of the embankment."
+    },
+    {
+        "chinese_source": "他们正在拍电影。",
+        "english_target_correct": "They are making a movie.",
+        "english_target_wrong": "They are crashing into a movie."
+    },
+    {
+        "chinese_source": "他善于贿赂，不久便爬上了局长的宝座。",
+        "english_target_correct": "He ofen bribed and soon hot the position of director.",
+        "english_target_wrong": "He ofen bribed and soon climbed onto the throne of director.."
+    },
+    {
+        "chinese_source": "参观故宫，我们那看到了清代皇帝的宝座。",
+        "english_target_correct": "When visiting the Forbidden City, we saw the the Qing emperor' s throne.",
+        "english_target_wrong": "When visiting the Forbidden City, we saw the the Qing emperor' s position."
+    },
+    {
+        "chinese_source": "在现代，只有大学生的牌子也是找不到好的工作。",
+        "english_target_correct": "In modern times, only the brand of college students can't help secure a good job.",
+        "english_target_wrong": "In modern times, only the sign of college students can't help secure a good job."
+    },
+    {
+        "chinese_source": "请你去把那个路口的牌子立起来。",
+        "english_target_correct": "Please set up the sign at road junction.",
+        "english_target_wrong": "Please set up the brand at the road junction.."
+    },
+    {
+        "chinese_source": "背离故土。",
+        "english_target_correct": "Left the homeland.",
+        "english_target_wrong": "be deviated from the homeland."
+    },
+    {
+        "chinese_source": "背离正确原则。",
+        "english_target_correct": "Be deviated from the correct principle.",
+        "english_target_wrong": "Left from the correct principle."
+    },
+    {
+        "chinese_source": "他喜欢攀陡峭的山崖。",
+        "english_target_correct": "He likes climbing steep cliffs.",
+        "english_target_wrong": "He likes seeking connections with steep cliffs."
+    },
+    {
+        "chinese_source": "他喜欢攀他的上司。",
+        "english_target_correct": "He likes seeking connections with his superior.",
+        "english_target_wrong": "He likes climbing his superior"
+    },
+    {
+        "chinese_source": "这个棋已经进入到了一个残局。",
+        "english_target_correct": "This chess game has proceeded into a final stage.",
+        "english_target_wrong": "This chess game has proceeded into mess."
+    },
+    {
+        "chinese_source": "收拾这个事情的残局。",
+        "english_target_correct": "Clean up the mess of this matter.",
+        "english_target_wrong": "Clean up the final stage of this matter."
+    },
+    {
+        "chinese_source": "现在市场不好，赶紧把手中的货物抛出去。",
+        "english_target_correct": "Now the market is not good, so we should lose no time to sell the goods that we have .",
+        "english_target_wrong": "Now the market is not good, so we should lose no time to thow out l the goods that we have ."
+    },
+    {
+        "chinese_source": "他被命令把手里的球抛出去。",
+        "english_target_correct": "He was ordered to throw the ball out of his hand.",
+        "english_target_wrong": "He was ordered to sell the ball out of his hand."
+    },
+    {
+        "chinese_source": "这人真是个饭桶，什么事都干不好。",
+        "english_target_correct": "This person is really a good-for-nothing, and he can do nothing.",
+        "english_target_wrong": "This person is really a rice bucket, and he can do nothing."
+    },
+    {
+        "chinese_source": "饭桶里没有饭。",
+        "english_target_correct": "There is no rice in the rice bucket.",
+        "english_target_wrong": "There is no rice in the good-for-nothing."
+    },
+    {
+        "chinese_source": "部队里的炮的威力很大。",
+        "english_target_correct": "The guns in the troops are very powerful.",
+        "english_target_wrong": "The firecrackers in the troops are very powerful."
+    },
+    {
+        "chinese_source": "政府规定过年期间，家里不能放炮。",
+        "english_target_correct": "The government stipulates that during the Chinese New Year, the family cannot put firecrackers.",
+        "english_target_wrong": "The government stipulated that during the Chinese New Year, the family could not fire a gun."
+    },
+    {
+        "chinese_source": "这个教师认真地培养着他的学生。",
+        "english_target_correct": "This teacher carefully trained his students.",
+        "english_target_wrong": "This teacher carefully cultivated his students."
+    },
+    {
+        "chinese_source": "这个园丁正在仔细地培养他的植物。",
+        "english_target_correct": "The gardener is carefully cultivating his plants.",
+        "english_target_wrong": "The gardener is carefully training his plants."
+    },
+    {
+        "chinese_source": "这些衣服都是好皮毛。",
+        "english_target_correct": "These clothes are all good fur.",
+        "english_target_wrong": "These clothes are all good superficial thing."
+    },
+    {
+        "chinese_source": "关于这个领域，我只知道皮毛。",
+        "english_target_correct": "I only know about superficial things about this field.",
+        "english_target_wrong": "I only know about fur in this field."
+    },
+    {
+        "chinese_source": "下个礼拜我们再碰头。",
+        "english_target_correct": "We will meet again next week.",
+        "english_target_wrong": "We will collided again next week."
+    },
+    {
+        "chinese_source": "他们选的题目碰头了。",
+        "english_target_correct": "The topics they chose collided.",
+        "english_target_wrong": "The topics they chose met."
+    },
+    {
+        "chinese_source": "请你给这本书包一层皮。",
+        "english_target_correct": "Please wrap this book with a cover.",
+        "english_target_wrong": "Please wrap this book with a skin."
+    },
+    {
+        "chinese_source": "他的手掉了一层皮。",
+        "english_target_correct": "The skin were peeled off his hands.",
+        "english_target_wrong": "The cover were peeled off his hands."
+    },
+    {
+        "chinese_source": "他忙了一天，感觉很疲困。",
+        "english_target_correct": "He has been busy for a day and felt very tired.",
+        "english_target_wrong": "He has been very busy for a day and feels a downward trend."
+    },
+    {
+        "chinese_source": "图书市场已经很疲困了。",
+        "english_target_correct": "The book market has already been in a downward trend.",
+        "english_target_wrong": "The book market has already been tired."
+    },
+    {
+        "chinese_source": "他刚刚搬完家，感到很疲劳。",
+        "english_target_correct": "He just moved house and felt tired.",
+        "english_target_wrong": "He just moved house and felt fatigue."
+    },
+    {
+        "chinese_source": "磁铁使用时间长，会变得疲劳。",
+        "english_target_correct": "Magnets become fatigued if they are used for a long time.",
+        "english_target_wrong": "Magnets become tired if they are used for a long time."
+    },
+    {
+        "chinese_source": "谁也不愿意聘她做媳妇儿。",
+        "english_target_correct": "No one want to marry her as a wife.",
+        "english_target_wrong": "No one want to hire her as a wife."
+    },
+    {
+        "chinese_source": "这个律师事务所想聘一名法律顾问。",
+        "english_target_correct": "The law firm wants to hire a legal adviser.",
+        "english_target_wrong": "The law firm wants to marry a legal adviser."
+    },
+    {
+        "chinese_source": "政府平了动乱。",
+        "english_target_correct": "The government surpressed the turmoil.",
+        "english_target_wrong": "The government equalled the turmoil."
+    },
+    {
+        "chinese_source": "这个成绩平了世界记录。",
+        "english_target_correct": "This achievement equalled the world record",
+        "english_target_wrong": "This achievement calmed down the world record."
+    },
+    {
+        "chinese_source": "海面平复了。",
+        "english_target_correct": "The sea was calm again.",
+        "english_target_wrong": "The sea has healed again."
+    },
+    {
+        "chinese_source": "我的伤口平复了。",
+        "english_target_correct": "My wound has been healed.",
+        "english_target_wrong": "My wound was calmed."
+    },
+    {
+        "chinese_source": "他这次上街又破了不少钱。",
+        "english_target_correct": "He spent a lot of money during this shopping.",
+        "english_target_wrong": "He broke a lot of money during this shopping."
+    },
+    {
+        "chinese_source": "他这次比赛又破了世界纪录。",
+        "english_target_correct": "He broke the world record again this time.",
+        "english_target_wrong": "He spent the world record again this time."
+    },
+    {
+        "chinese_source": "他们竟然剖了自己的肚子。",
+        "english_target_correct": "They unexpectedly opened their stomachs. ",
+        "english_target_wrong": "They unexpectedly analyzed their stomachs. "
+    },
+    {
+        "chinese_source": "这个文章深刻地剖了这个问题。",
+        "english_target_correct": "This article analyzes this issue profoundly.",
+        "english_target_wrong": "This article opens this issue profoundly."
+    },
+    {
+        "chinese_source": "他已经成为了全军的旗帜。",
+        "english_target_correct": "He has become an examplary person for the entire army.",
+        "english_target_wrong": "He has become the flag of the entire army."
+    },
+    {
+        "chinese_source": "今天街道上有很多飘扬的旗帜。",
+        "english_target_correct": "There are many flying flags on the streets today.",
+        "english_target_wrong": "There are many flying examplary people on the streets today."
+    },
+    {
+        "chinese_source": "你家别起火了，到我家吃饭吧。",
+        "english_target_correct": "Your family do not need to cook today, just come to my home and eat.",
+        "english_target_wrong": "Your family do not need to be angry today, just come to my home and eat."
+    },
+    {
+        "chinese_source": "你别起火了，注意心情保持平静。",
+        "english_target_correct": "Don't be angry,pay attention to keep calm.",
+        "english_target_wrong": "Don't catch fire,pay attention to keep calm."
+    },
+    {
+        "chinese_source": "海水在这次暴风雨中起立。",
+        "english_target_correct": "The sea surged during the storm.",
+        "english_target_wrong": "The sea stood up during the storm."
+    },
+    {
+        "chinese_source": "如果你有问题，请起立。",
+        "english_target_correct": "If you have questions, please stand up. ",
+        "english_target_wrong": "If you have questions, please surged. "
+    },
+    {
+        "chinese_source": "这两个人牵扯一头母牛。",
+        "english_target_correct": "The two men pulled a cow.",
+        "english_target_wrong": "The two men involved a cow."
+    },
+    {
+        "chinese_source": "这个事情牵扯领导。",
+        "english_target_correct": "This matter involves leaders.",
+        "english_target_wrong": "This matter pulls leaders."
+    },
+    {
+        "chinese_source": "他潜入了这座城市。",
+        "english_target_correct": "He sneaked into the city. ",
+        "english_target_wrong": "He dived into the city. "
+    },
+    {
+        "chinese_source": "他潜入海底。",
+        "english_target_correct": "He dived into the ocean floor.",
+        "english_target_wrong": "He sneaked into the ocean floor."
+    },
+    {
+        "chinese_source": "这个颜色太浅了。",
+        "english_target_correct": "This color is too light.",
+        "english_target_wrong": "This color is too shallow."
+    },
+    {
+        "chinese_source": "我有关衣服色彩方面的知识太浅了。",
+        "english_target_correct": "My knowledge about the color of clothes is too shallow.",
+        "english_target_wrong": "My knowledge about the color of clothes is too light."
+    },
+    {
+        "chinese_source": "这个计划被枪毙了。",
+        "english_target_correct": "This plan was abandoned.",
+        "english_target_wrong": "This plan was shot."
+    },
+    {
+        "chinese_source": "他因为犯了罪被警察枪毙了。",
+        "english_target_correct": "He was shot by the police for his crime.",
+        "english_target_wrong": "He was abandoned by the police for his crime."
+    },
+    {
+        "chinese_source": "强奸民意。",
+        "english_target_correct": "Forcibly impose opinions on the public.",
+        "english_target_wrong": "Rape public opinion. "
+    },
+    {
+        "chinese_source": "他强奸了一个未成年少女。",
+        "english_target_correct": "He raped a underage girl. ",
+        "english_target_wrong": "He Forcibly impose opinions on a underage girl. "
+    },
+    {
+        "chinese_source": "这个妇女很俏。",
+        "english_target_correct": "This woman is pretty.",
+        "english_target_wrong": "This woman is sold well."
+    },
+    {
+        "chinese_source": "这批大米在市场上很俏。",
+        "english_target_correct": "This batch of rice was sold well in the market.",
+        "english_target_wrong": "This batch of rice was very pretty in the market."
+    },
+    {
+        "chinese_source": "老百姓都把这个人称作青天。",
+        "english_target_correct": "People called this man a just judge. ",
+        "english_target_wrong": "People called this man blue sky. "
+    },
+    {
+        "chinese_source": "这个地方的天气难得见到青天。",
+        "english_target_correct": "The blue sky can be rarely seen in this place.",
+        "english_target_wrong": "The just judge can be rarely seen in this place."
+    },
+    {
+        "chinese_source": "这个地方天空上飘过一朵青云。",
+        "english_target_correct": "A blue cloud floated across the sky above this place. ",
+        "english_target_wrong": "A position of senior official floated across the sky above this place. "
+    },
+    {
+        "chinese_source": "他已经是一个登上青云的人。",
+        "english_target_correct": "He has became a man who has ascended the positions of senior officials. ",
+        "english_target_wrong": "He has became a man who has ascended the  blue cloud. "
+    },
+    {
+        "chinese_source": "这是一份轻薄但却有意义的礼物。",
+        "english_target_correct": "This is a little but meaningful gift.",
+        "english_target_wrong": "This is a frivolous but meaningful gift."
+    },
+    {
+        "chinese_source": "桌上有着一张轻薄的纸。",
+        "english_target_correct": "There was a thin sheet of paper on the table. ",
+        "english_target_wrong": "There was a little sheet of paper on the table. "
+    },
+    {
+        "chinese_source": "天上的云彩显得很轻浮。",
+        "english_target_correct": "The clouds in the sky seemed very light.",
+        "english_target_wrong": "The clouds in the sky seemed very frivolous."
+    },
+    {
+        "chinese_source": "一看就感觉他是个轻浮的人。",
+        "english_target_correct": "He is a frivolous man at first sight.",
+        "english_target_wrong": "He is a light man at first sight."
+    },
+    {
+        "chinese_source": "他的歌声让剧院里的人都倾倒了。",
+        "english_target_correct": "His singing was admired by everyone in the theater.",
+        "english_target_wrong": "His singing made the people in the theater dump. "
+    },
+    {
+        "chinese_source": "这个茅屋在飓风中倾倒了。",
+        "english_target_correct": "The hut was collapsed in the hurricane. ",
+        "english_target_wrong": "The hut was admired it in the hurricane. "
+    },
+    {
+        "chinese_source": "她把一车煤都倾倒在屋外。",
+        "english_target_correct": "She dumped a cart of coal outside the house. ",
+        "english_target_wrong": "She poured out a cart of coal outside the house. "
+    },
+    {
+        "chinese_source": "她流下眼泪，把委屈都倾倒了出来。",
+        "english_target_correct": "She shed tears and poured out her grievances. ",
+        "english_target_wrong": "She shed tears and dumped her grievances. "
+    },
+    {
+        "chinese_source": "这一句话需要去几个错误的字。",
+        "english_target_correct": "Few wrong words need to be dropped in this sentence",
+        "english_target_wrong": "Few wrong words need to be gone in this sentence"
+    },
+    {
+        "chinese_source": "明天，这只熊猫要去北京。",
+        "english_target_correct": "Tomorrow, this panda will go to Beijing. ",
+        "english_target_wrong": "Tomorrow, this panda will drop Beijing. "
+    },
+    {
+        "chinese_source": "明天拔河比赛，我们公司将会全军都出动。",
+        "english_target_correct": "Fort tug of war tomorrow, our company will dispatch all employees. ",
+        "english_target_wrong": "Tomorrow's tug of war, our company will dispatch the entire army. "
+    },
+    {
+        "chinese_source": "经过这一场战斗，敌人全军都被击垮了。",
+        "english_target_correct": "After this battle, the entire army of the enemy was defeated.",
+        "english_target_wrong": "After this battle, all employees of the enemy was defeated."
+    },
+    {
+        "chinese_source": "宝剑的锻造需要热处理。",
+        "english_target_correct": "The sword need to be heated when being forged. ",
+        "english_target_wrong": "The sword need to be handled immerdiately when being forged. "
+    },
+    {
+        "chinese_source": "这个问题不能热处理。",
+        "english_target_correct": "This problem cannot be handled immediately. ",
+        "english_target_wrong": "This problem cannot be heated."
+    },
+    {
+        "chinese_source": "物体燃烧需要一定的热度。",
+        "english_target_correct": "Objects need a certain amount of temperature to burn. ",
+        "english_target_wrong": "Objects need a certain amount of enthusiasm to burn. "
+    },
+    {
+        "chinese_source": "他对这件事情的热度持续很久。",
+        "english_target_correct": "His enthusiasm for this matter lasted for a long time. ",
+        "english_target_wrong": "His temperature for this matter lasted for a long time. "
+    },
+    {
+        "chinese_source": "日一般都是从东方升起。",
+        "english_target_correct": "The sun generally rises from the east.",
+        "english_target_wrong": "The day generally rises from the east."
+    },
+    {
+        "chinese_source": "一年有365日。",
+        "english_target_correct": "There are 365 days in a year. ",
+        "english_target_wrong": "There are 365 suns in a year. "
+    },
+    {
+        "chinese_source": "这个食物太苦而不能入口。",
+        "english_target_correct": "This food is too bitter to drink.",
+        "english_target_wrong": "This food is too bitter to be imported. "
+    },
+    {
+        "chinese_source": "货物入口要经过海关。",
+        "english_target_correct": "The imported goods  should go through customs. ",
+        "english_target_wrong": "The goods that enter into mounth should go through customs. "
+    },
+    {
+        "chinese_source": "这个食物十分入味。",
+        "english_target_correct": "This food is very tasty",
+        "english_target_wrong": "This food is very amusing. "
+    },
+    {
+        "chinese_source": "这个电影十分入味。",
+        "english_target_correct": "This movie is very amusing. ",
+        "english_target_wrong": "This movie is very tasty. "
+    },
+    {
+        "chinese_source": "请把这些花润泽一下。                          ",
+        "english_target_correct": "Please moisten these flowers. ",
+        "english_target_wrong": "Please lubricate these flowers. "
+    },
+    {
+        "chinese_source": "用机油润泽一下机器的转动部位。",
+        "english_target_correct": "Lubricate the rotating parts of the machine with oil. ",
+        "english_target_wrong": "Moisten the rotating parts of the machine with oil. "
+    },
+    {
+        "chinese_source": "这个柿子很涩。",
+        "english_target_correct": "This persimmon is very bitter.",
+        "english_target_wrong": "This persimmon is very obscure."
+    },
+    {
+        "chinese_source": "这个文章很涩。",
+        "english_target_correct": "This article is very obscure.",
+        "english_target_wrong": "This article is bitter."
+    },
+    {
+        "chinese_source": "请你伸出舌头。",
+        "english_target_correct": "Please put out your tongue.",
+        "english_target_wrong": "Please put out your enemy."
+    },
+    {
+        "chinese_source": "他们在敌人阵营捉了个舌头回来。",
+        "english_target_correct": "They caught an enemy back from the enemy camp.",
+        "english_target_wrong": "They caught a tongue back from the enemy camp. "
+    },
+    {
+        "chinese_source": "夜已经很深了。",
+        "english_target_correct": "The night has already grown late.",
+        "english_target_wrong": "The night has already grown deep."
+    },
+    {
+        "chinese_source": "这口井很深。",
+        "english_target_correct": "This well is deep. ",
+        "english_target_wrong": "This well is late. "
+    },
+    {
+        "chinese_source": "我的小孩子开始换牙了。",
+        "english_target_correct": "My child begins to grow permanent teeth. ",
+        "english_target_wrong": "My child begins to change ivory. "
+    },
+    {
+        "chinese_source": "他的筷子都是牙制的。",
+        "english_target_correct": "His chopsticks are made of ivory. ",
+        "english_target_wrong": "His chopsticks are made of teeth. "
+    },
+    {
+        "chinese_source": "这个小孩子需要收拾。",
+        "english_target_correct": "This child needs to be punished. ",
+        "english_target_wrong": "This child needs to be repaired. "
+    },
+    {
+        "chinese_source": "这个破了的桌子需要收拾。",
+        "english_target_correct": "This broken table needs to be repaired.",
+        "english_target_wrong": "This broken table needs to be punished."
+    },
+    {
+        "chinese_source": "这个犯了罪的人需要修理。",
+        "english_target_correct": "The offender needs to be punished. ",
+        "english_target_wrong": "The offender needs to be repaired. "
+    },
+    {
+        "chinese_source": "这个出了故障的机器需要修理。",
+        "english_target_correct": "This failed machine needs to be repaired.",
+        "english_target_wrong": "This failed machine needs to be punished."
+    },
+    {
+        "chinese_source": "疏通堵塞的下水道。",
+        "english_target_correct": "Dredge blocked sewers. ",
+        "english_target_wrong": "Mediate blocked sewers. "
+    },
+    {
+        "chinese_source": "疏通两个村子之间的冲突。",
+        "english_target_correct": "Mediate the conflict between the two villages. ",
+        "english_target_wrong": "Dredge the conflict between the two villages. "
+    },
+    {
+        "chinese_source": "这篇文章的水太多。",
+        "english_target_correct": "There is too much useless stuff in this article.",
+        "english_target_wrong": "There is too much water in this article."
+    },
+    {
+        "chinese_source": "这个锅里的水会沸腾。",
+        "english_target_correct": "The water in this pot will boil. ",
+        "english_target_wrong": "The useless stuff in this pot will boil. "
+    },
+    {
+        "chinese_source": "这点钱可是我的私房。",
+        "english_target_correct": "This money is my private savings. ",
+        "english_target_wrong": "This money is my private house. "
+    },
+    {
+        "chinese_source": "这一带的私房都要拆除。",
+        "english_target_correct": "The private houses in this area must be demolished. ",
+        "english_target_wrong": "The private money in this area must be demolished. "
+    },
+    {
+        "chinese_source": "他的嘴真碎，一天到晚就在说。",
+        "english_target_correct": "His is so garrulous, and he is talking all the day. ",
+        "english_target_wrong": "His mouth is so broken, and he is talking all day. "
+    },
+    {
+        "chinese_source": "这个玻璃碎了。",
+        "english_target_correct": "This glass is broken.",
+        "english_target_wrong": "This glass is garrulous."
+    },
+    {
+        "chinese_source": "这部科幻影片描述了一个太空人和地球上的一个男孩接触的故事。",
+        "english_target_correct": "This science fiction film describes the story about the interaction between an alien and a boy on the Earth. ",
+        "english_target_wrong": "This science fiction film describes the story about the interaction between an astronaut and a boy on Earth.   "
+    },
+    {
+        "chinese_source": "她是第一个随地球的宇宙飞船上天的女性太空人。",
+        "english_target_correct": "She was the first female astronaut to go to outer space with the spacecraft of the Earth. ",
+        "english_target_wrong": "She was the first female alien to go to  outer space with the spacecraft of the Earth's. "
+    },
+    {
+        "chinese_source": "这个老师所教授的桃李在各行各业都是精英。",
+        "english_target_correct": "The students taught by this teacher are elite in all walks of life.",
+        "english_target_wrong": "The peaches and plums taught by this teacher are elite in all walks of life."
+    },
+    {
+        "chinese_source": "家门口的桃李绚丽多彩。",
+        "english_target_correct": "The peaches and plums in front of the house are gorgeous and colorful. ",
+        "english_target_wrong": "The students in front of the house are gorgeous and colorful. "
+    },
+    {
+        "chinese_source": "理论性强的文章也可以写得通俗易懂，不一定要写成天书。",
+        "english_target_correct": "Articles that are highly theoretical can also be written in a simple and understandable way, and do not have to be written as  double Dutch.   ",
+        "english_target_wrong": "Articles that are highly theoretical can also be written in a simple and understandable way, and do not have to be written as heavenly books."
+    },
+    {
+        "chinese_source": "他昨晚梦见一个仙人给了他一本天书。",
+        "english_target_correct": "He dreamed last night that a fairy gave him a heavenly book. ",
+        "english_target_wrong": "He dreamed last night that a fairy gave him a double Dutch."
+    },
+    {
+        "chinese_source": "他打算去邮局投信。",
+        "english_target_correct": "He intends to go to the post office to send a letter. ",
+        "english_target_wrong": "He intends to go to the post office to plunge into a letter. "
+    },
+    {
+        "chinese_source": "他昨天投井了。",
+        "english_target_correct": "He plunged into the well yesterday. ",
+        "english_target_wrong": "He send the well yesterday. "
+    },
+    {
+        "chinese_source": "这个玻璃窗很透亮。",
+        "english_target_correct": "This glass window is very translucent. ",
+        "english_target_wrong": "This glass window knows very well. "
+    },
+    {
+        "chinese_source": "听完这句话，他的心里很透亮。",
+        "english_target_correct": "After hearing this words, he knew very well in his heart. ",
+        "english_target_wrong": "After hearing this words, his heart was very translucent. "
+    },
+    {
+        "chinese_source": "这种坦克已经退役。",
+        "english_target_correct": "This kind of tank has been decommissioned.",
+        "english_target_wrong": "This kind of tank has been retired."
+    },
+    {
+        "chinese_source": "他是个已经退役的军人。",
+        "english_target_correct": "He is a retired soldier.",
+        "english_target_wrong": "He is a decommissioned soldier."
+    },
+    {
+        "chinese_source": "必须要办带头犯罪的人。",
+        "english_target_correct": "Those who led the crime must be punished.",
+        "english_target_wrong": "Those who led the crime must be purchased."
+    },
+    {
+        "chinese_source": "许多家庭正在办年货。",
+        "english_target_correct": "Many families are purchasing New Year's products.",
+        "english_target_wrong": "Many families are punishing New Year's products."
+    },
+    {
+        "chinese_source": "这部书可是他刚在书店买的宝贝。",
+        "english_target_correct": "This book is the treasure he just bought at the bookstore. ",
+        "english_target_wrong": "This book is the baby he just bought at the bookstore. "
+    },
+    {
+        "chinese_source": "这个母亲带她刚出生的宝贝出去玩了。",
+        "english_target_correct": "This mother took her newborn baby out to play. ",
+        "english_target_wrong": "This mother took her newborn treasure out to play. "
+    },
+    {
+        "chinese_source": "这个老师请这个学生背刚刚他在黑板上写的课文。",
+        "english_target_correct": "The teacher asked the student to recite the text he had just written on the blackboard. ",
+        "english_target_wrong": "The teacher asked the student to carry the text he had just written on the blackboard. "
+    },
+    {
+        "chinese_source": "学校规定学生上学要背书包。",
+        "english_target_correct": "The school requires students to carry school bags. ",
+        "english_target_wrong": "The school requires students to recite school bags. "
+    },
+    {
+        "chinese_source": "他正在编明天晚会上要唱的歌的歌词。",
+        "english_target_correct": "He is compiling the lyrics of the song to be sung at the party tomorrow. ",
+        "english_target_wrong": "He is weaving the lyrics of the song to be sung at the party tomorrow. "
+    },
+    {
+        "chinese_source": "他正在编明天打仗要穿的草鞋。",
+        "english_target_correct": "He is weaving straw shoes that needs to be worn in tomorrow's fight. ",
+        "english_target_wrong": "He is compiling straw shoes that needs to be worn in tomorrow's fight. "
+    },
+    {
+        "chinese_source": "这个魔术师正在变一个魔术。",
+        "english_target_correct": "The magician is doing a magic tricks.",
+        "english_target_wrong": "The magician is becoming a magic tricks."
+    },
+    {
+        "chinese_source": "这座荒山变良田。",
+        "english_target_correct": "This barren hill becomes a fertile land. ",
+        "english_target_wrong": "This barren hill do a fertile land. "
+    },
+    {
+        "chinese_source": "这个军人回家的时候会穿便衣。",
+        "english_target_correct": "This soldier will wear plain clothes when he goes home. ",
+        "english_target_wrong": "This soldier will wear plain clothes man when he goes home. "
+    },
+    {
+        "chinese_source": "这个领导人私访的时候会带几个便衣保护自己。",
+        "english_target_correct": "The leader will bring a few men dressing plain clothes to protect himself during a private visit. ",
+        "english_target_wrong": "The leader will bring a few civilian clothes to protect himself during a private visit. "
+    },
+    {
+        "chinese_source": "请如实写这个有关开设钟表店的表。",
+        "english_target_correct": "Please write this form about opening watch shop. ",
+        "english_target_wrong": "Please write this watch about opening watch shop. "
+    },
+    {
+        "chinese_source": "他正在钟表店修表。",
+        "english_target_correct": "He is repairing a watch in a watch shop. ",
+        "english_target_wrong": "He is repairing a form in a watch shop. "
+    },
+    {
+        "chinese_source": "他习惯吃完饭用纸巾擦嘴。",
+        "english_target_correct": "He used to wipe his mouth with a tissue after eating. ",
+        "english_target_wrong": "He used to approach his mouth with a tissue after eating. "
+    },
+    {
+        "chinese_source": "飞机擦着山顶。",
+        "english_target_correct": "The plane approached the top of the mountain. ",
+        "english_target_wrong": "The plane wiped the top of the mountain. "
+    },
+    {
+        "chinese_source": "这是土匪从山里出世的季节。",
+        "english_target_correct": "This is the season when the bandits haunt from the mountains.",
+        "english_target_wrong": "This is the season when the bandits are born in the mountains. "
+    },
+    {
+        "chinese_source": "这个季节有很多婴儿出世。",
+        "english_target_correct": "Many babies are born in this season.",
+        "english_target_wrong": "Many babies haunt this season."
+    },
+    {
+        "chinese_source": "他正在穿这家服装店旁边的马路。",
+        "english_target_correct": "He is crossing the street next to this clothing store.",
+        "english_target_wrong": "He is wearing the street next to this clothing store."
+    },
+    {
+        "chinese_source": "他正在穿一件红色的衣服。",
+        "english_target_correct": "He is wearing a red dress. ",
+        "english_target_wrong": "He is crossing a red dress. "
+    },
+    {
+        "chinese_source": "他正在搭今晚要睡的帐篷。",
+        "english_target_correct": "He is setting up a tent to sleep tonight. ",
+        "english_target_wrong": "He is riding a tent to sleep tonight. "
+    },
+    {
+        "chinese_source": "他正在搭一艘豪华的船回家。",
+        "english_target_correct": "He is riding a luxurious boat to return home.",
+        "english_target_wrong": "He is setting up a luxurious boat to return home."
+    },
+    {
+        "chinese_source": "这个演员的嗓子倒了。",
+        "english_target_correct": "The actor lost his voice.",
+        "english_target_wrong": "The actor's throat fell down. "
+    },
+    {
+        "chinese_source": "这座房子在暴风雨中倒了。",
+        "english_target_correct": "The house fell down in the storm. ",
+        "english_target_wrong": "The house lost its voice in the storm. "
+    },
+    {
+        "chinese_source": "如果他离职，没有人能抵他的工作。",
+        "english_target_correct": "If he leaves, no one can take over his job. ",
+        "english_target_wrong": "If he leaves, no one can arrive in his job. "
+    },
+    {
+        "chinese_source": "这个列车即将抵上海。",
+        "english_target_correct": "This train is about to arrive in Shanghai.",
+        "english_target_wrong": "This train is about to take over Shanghai."
+    },
+    {
+        "chinese_source": "这个堡垒里的敌人经常出来祸害百姓，部队打算拔掉这个钉子。",
+        "english_target_correct": "The enemies in this fort often come out to harm the people, and the troops intend to eliminate this scourge. ",
+        "english_target_wrong": "The enemies in this fort often come out to harm the people, and the troops intend to pull this nail. "
+    },
+    {
+        "chinese_source": "桌脚需要钉两个钉子防止破裂。",
+        "english_target_correct": "The table foot needs to nail two nails to prevent cracking. ",
+        "english_target_wrong": "The table foot needs to nail two scourges to prevent cracking. "
+    },
+    {
+        "chinese_source": "你的眼睛真毒，能在这么多人中找到犯罪分子。",
+        "english_target_correct": "Your eyes are so acute that you can find criminals in so many people. ",
+        "english_target_wrong": "Your eyes are so poisonous that you can find criminals in so many people. "
+    },
+    {
+        "chinese_source": "这个蛇很毒，能瞬间杀死人。",
+        "english_target_correct": "This snake is very poisonous and can kill people instantly. ",
+        "english_target_wrong": "This snake is very acute and can kill people instantly. "
+    },
+    {
+        "chinese_source": "利用风能来发电是新的能源政策。",
+        "english_target_correct": "The use of wind energy to generate electricity is a new energy policy. ",
+        "english_target_wrong": "The use of wind energy to send telegrams is a new energy policy. "
+    },
+    {
+        "chinese_source": "这支部队遭受了敌人攻击，正在给总部发电。",
+        "english_target_correct": "The army was attacked by the enemy and is sending a telegram to headquarters.",
+        "english_target_wrong": "The army was attacked by the enemy and is generating electricity to headquarters."
+    },
+    {
+        "chinese_source": "这个寺庙刚刚被装修的工人翻过。",
+        "english_target_correct": "This temple has just been renovated by the decorated workers.",
+        "english_target_wrong": "This temple has just been overturned by the decorated workers."
+    },
+    {
+        "chinese_source": "这个炸弹炸翻了这个坦克。",
+        "english_target_correct": "The bomb overturned the tank. ",
+        "english_target_wrong": "The bomb renovated the tank. "
+    },
+    {
+        "chinese_source": "他上课讲话，又一次犯了在学校不应该犯的错误。",
+        "english_target_correct": "He spoke in class and made a mistake again that should not be made in school. ",
+        "english_target_wrong": "He spoke in class and violated a mistake again that should not be made in school. "
+    },
+    {
+        "chinese_source": "他上课讲话，又一次犯了学校的规矩。",
+        "english_target_correct": "He spoke in class and violated school rules again.",
+        "english_target_wrong": "He spoke in class and made school rules again."
+    },
+    {
+        "chinese_source": "这种食品严禁添加防腐剂。",
+        "english_target_correct": "It is strictly forbidden to add preservatives to this food. ",
+        "english_target_wrong": "It is strictly forbidden to add ability to resist bad ideas to this food. "
+    },
+    {
+        "chinese_source": "一个好的读者在看书的时候都有自己的防腐剂。",
+        "english_target_correct": "A good reader has his own ability to resist bad ideas when reading a book.",
+        "english_target_wrong": "A good reader has his own preservative when reading a book."
+    },
+    {
+        "chinese_source": "这个车开得飞快。",
+        "english_target_correct": "This car is driving fast. ",
+        "english_target_wrong": "This car is driving sharpened. "
+    },
+    {
+        "chinese_source": "这个刀口飞快。",
+        "english_target_correct": "This knife edge is sharpened.",
+        "english_target_wrong": "This knife edge is fast. "
+    },
+    {
+        "chinese_source": "这里正在铺设高压电线。",
+        "english_target_correct": "High-voltage wires are being laid here. ",
+        "english_target_wrong": "high blood pressure wires are being laid here. "
+    },
+    {
+        "chinese_source": "这个电网工人在医院测血压，他的高压太高。",
+        "english_target_correct": "The grid worker was taking blood pressure at the hospital, and his high blood pressure was too high. ",
+        "english_target_wrong": "The grid worker was taking blood pressure at the hospital, and his high voltage was too high. "
+    },
+    {
+        "chinese_source": "他的皮肤上有一个疙瘩。",
+        "english_target_correct": "There is a pimple on his skin. ",
+        "english_target_wrong": "There is a misunderstanding on his skin. "
+    },
+    {
+        "chinese_source": "经历了一次背叛之后，他们的关系之间有了一个疙瘩。",
+        "english_target_correct": "After experiencing a betrayal, there was a misunderstanding in their relationship.",
+        "english_target_wrong": "After experiencing a betrayal, there was a pimple in their relationship."
+    },
+    {
+        "chinese_source": "这个人没骨头。",
+        "english_target_correct": "This person has no moral integrity.",
+        "english_target_wrong": "This person is boneless."
+    },
+    {
+        "chinese_source": "一个人总共有206块骨头。",
+        "english_target_correct": "There are 206 bones in one person. ",
+        "english_target_wrong": "There are 206 moral integrity in one person. "
+    },
+    {
+        "chinese_source": "你应该用这种叶子裹粽子。",
+        "english_target_correct": "You should wrap the rice dumplings with this kind of leaves. ",
+        "english_target_wrong": "You should mix the rice dumplings with this kind of leaves. "
+    },
+    {
+        "chinese_source": "你不要把两个不同的东西裹到一起。",
+        "english_target_correct": "You don't mix two different things together.",
+        "english_target_wrong": "You don't wrap two different things together."
+    },
+    {
+        "chinese_source": "工作认真的她是铁路部门的一面红旗。",
+        "english_target_correct": "She who is working hard is an advanced individual of the railway department.",
+        "english_target_wrong": "She who is working hard is a red flag of the railway department."
+    },
+    {
+        "chinese_source": "每天早上，学校的操场都要升红旗。",
+        "english_target_correct": "Every morning,the red flag will raised in the school's playground.",
+        "english_target_wrong": "Every morning,the advanced individual will raised in the school's playground."
+    },
+    {
+        "chinese_source": "这种思想又再次回潮。",
+        "english_target_correct": "This kind of thinking has resurrected again.",
+        "english_target_wrong": "This kind of thinking has regained moisture again."
+    },
+    {
+        "chinese_source": "这个地板在夏季会回潮。",
+        "english_target_correct": "This floor will regain moisture in summer.",
+        "english_target_wrong": "This floor will resurgent in summer."
+    },
+    {
+        "chinese_source": "她打算在这里开一家超市。                     ",
+        "english_target_correct": "She plans to open a supermarket here.",
+        "english_target_wrong": "She plans to fly a supermarket here."
+    },
+    {
+        "chinese_source": "这个机长今天的飞行任务是开一架大的飞机。",
+        "english_target_correct": "The captain's mission today is to fly a large aircraft.",
+        "english_target_wrong": "The captain's mission today is to open a large aircraft."
+    },
+    {
+        "chinese_source": "过去他很穷，但是现在他变阔了。",
+        "english_target_correct": "He was poor in the past, but now he is wealthy.",
+        "english_target_wrong": "He was poor in the past, but now he has widened. "
+    },
+    {
+        "chinese_source": "这个房子很宽阔。",
+        "english_target_correct": "This house is very wide.",
+        "english_target_wrong": "This house is very wealthy."
+    }
+]
