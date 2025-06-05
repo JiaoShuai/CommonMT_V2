@@ -11,3 +11,14 @@ A refined CommonMT test suite
 
 
 ```
+## contextual_syntactic_ambiguity.jsonl 文件格式 
+```json
+{"chinese_source": "当地震袭击中国时，援助的是中国。", "english_target_correct": "When the earthquake hit China, China was aided.", "english_target_wrong": "When the earthquake hit China,  China has assisted."}
+
+```
+
+## contextless_syntactic_ambiguity.jsonl 文件格式
+
+```json
+{"chinese_source": "发明的是一个伟大的科学家。 ", "english_target_correct": "A great scientist invented it.", "english_target_wrong": "A great scitentist was invented."}
+``` 

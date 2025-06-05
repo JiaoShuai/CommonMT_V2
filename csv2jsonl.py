@@ -2,10 +2,10 @@ import csv
 import json
 
 # CSV文件路径
-csv_file = 'lexical_ambiguity.csv'
+csv_file = 'contextual_syntactic_ambiguity.csv'
 
 # 输出的JSONL文件路径
-jsonl_file = 'lexical_ambiguity.jsonl'
+jsonl_file = 'contextual_syntactic_ambiguity.jsonl'
 
 import csv
 import json

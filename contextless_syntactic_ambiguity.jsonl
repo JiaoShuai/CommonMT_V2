@@ -1,0 +1,450 @@
+{"chinese_source": "发明的是一个伟大的科学家。 ", "english_target_correct": "A great scientist invented it.", "english_target_wrong": "A great scitentist was invented."}
+{"chinese_source": "发明的是一个机器人。", "english_target_correct": "A robot was invented.", "english_target_wrong": "A robot invented it."}
+{"chinese_source": "关心的是高的分数。", "english_target_correct": "High scores was cared about.", "english_target_wrong": "The high scores cared."}
+{"chinese_source": "关心的是关心你的，但是你却不关心的人。", "english_target_correct": "The people who care for you but you don't care for care for you.", "english_target_wrong": "The people who cares about you, but you don't care,is cared by you."}
+{"chinese_source": "批评的是犯了错误的学生。", "english_target_correct": "The student who made the mistake was criticized.", "english_target_wrong": "The student who made the mistake criticizes."}
+{"chinese_source": "批评的是治学严厉的教师。", "english_target_correct": "The one who criticizes is the rigorous teacher .", "english_target_wrong": "The rigorous teacher was criticized."}
+{"chinese_source": "正在采收的是果园里的果实。", "english_target_correct": "What is being harvested is the fruit in the orchard.", "english_target_wrong": "The fruit in the orchard is harvesting."}
+{"chinese_source": "正在采收的是果园里的果农。", "english_target_correct": "The orchard worker in the orchard is harvesting.", "english_target_wrong": "The orchard worker in the orchard is being harvested."}
+{"chinese_source": "正在手术的是健康的医生。", "english_target_correct": "A healthy doctor is doing surgery.", "english_target_wrong": "What is undergoing surgery is a doctor who is healthy."}
+{"chinese_source": "正在手术的是生命垂危的病人。", "english_target_correct": "What is undergoing surgery is a patient whose life is dying.", "english_target_wrong": "A patient whose life is dying is doing surgery."}
+{"chinese_source": "正在教授的是知识。", "english_target_correct": "What is taught is knowledge.", "english_target_wrong": "The knowledge is teaching."}
+{"chinese_source": "正在教授的是正教授。", "english_target_correct": "A professor is teaching.", "english_target_wrong": "What is taught is a professor."}
+{"chinese_source": "正在执行的是法律。", "english_target_correct": "What is implemented is the law.", "english_target_wrong": "The law is implementing."}
+{"chinese_source": "正在执行的是法警。", "english_target_correct": "The bailiff is implementing.", "english_target_wrong": "What is implemented is the bailiff."}
+{"chinese_source": "正在收割的是农田里的稻谷。", "english_target_correct": "What is being harvested is the rice in the farmland.", "english_target_wrong": "The rice in the farmland is harvesting."}
+{"chinese_source": "正在收割的是农民的孩子。", "english_target_correct": "The farmer's child is harvesting.", "english_target_wrong": "What is being harvested is the farmer's child."}
+{"chinese_source": "正在管理的是机房。", "english_target_correct": "What is being managed is the computer room.", "english_target_wrong": "The computer room is managing."}
+{"chinese_source": "正在管理的是学校专门的管理员。", "english_target_correct": "The school's dedicated administrator is managing.", "english_target_wrong": "What is being managed is the school's dedicated administrator."}
+{"chinese_source": "捕获的是猎物。", "english_target_correct": "The prey is hunted.", "english_target_wrong": "The prey is hunting."}
+{"chinese_source": "捕获的是猎人。", "english_target_correct": "The hunter is hunting.", "english_target_wrong": "The hunter is hunted."}
+{"chinese_source": "敲打的是鼓。", "english_target_correct": "What is beaten is the drum.", "english_target_wrong": "The drum is beating."}
+{"chinese_source": "敲打的是已经在击鼓行业工作了数十年的鼓手。", "english_target_correct": "The drummer who have been working in the drumming industry for decades is beating.", "english_target_wrong": "What is beaten is the drummer who have been working in the drumming industry for decades."}
+{"chinese_source": "扮演的是一头龙。", "english_target_correct": "What is acted is a dragon.", "english_target_wrong": "A dragon is playing."}
+{"chinese_source": "扮演的是李连杰。", "english_target_correct": "The role is played by Lianjie Li.", "english_target_wrong": "The role played is Lianjie Li. "}
+{"chinese_source": "研究的是企业文化。", "english_target_correct": "The corporate culture is studied.", "english_target_wrong": "The corporate culture is studying."}
+{"chinese_source": "研究的是企业科研人员。", "english_target_correct": "The corporate researchers is studying.", "english_target_wrong": "The corporate researchers is studied."}
+{"chinese_source": "飞跃的是峡谷。", "english_target_correct": "What was leaped is the canyon.", "english_target_wrong": "The canyon is leaping."}
+{"chinese_source": "飞跃的专业运动员。", "english_target_correct": "The professional athletes is leaping.", "english_target_wrong": "What is leaped is the professional athletes."}
+{"chinese_source": "发现的是一个新的古文明。", "english_target_correct": "What is Discovered is a new civilizations.", "english_target_wrong": "A new civilizations discovered it."}
+{"chinese_source": "发现的是一个考古教授。", "english_target_correct": "A archaeological professor discovered it.", "english_target_wrong": "What is discovered is a archaeological professor."}
+{"chinese_source": "调研乡镇的经济发展情况。", "english_target_correct": "The economic development of townships is investigated.", "english_target_wrong": "The economic development which investigates townships."}
+{"chinese_source": "调研乡镇的经济学教授。", "english_target_correct": "The economics professor who investigates townships.", "english_target_wrong": "The economics professor in townships is investigated."}
+{"chinese_source": "记录实验的表格。", "english_target_correct": "The form which is used to record the experiment.", "english_target_wrong": "The form of the experiment is recorded."}
+{"chinese_source": "记录实验的结果。", "english_target_correct": "The results of the experiment is recorded.", "english_target_wrong": "The result which is used record the experiment."}
+{"chinese_source": "吃了游客的鳄鱼。", "english_target_correct": "The crocodile who ate the tourists.", "english_target_wrong": "The tourist's crocodile was eaten."}
+{"chinese_source": "吃了游客的猫。", "english_target_correct": "The tourist's cat was eaten.", "english_target_wrong": "The cat who ate the tourists."}
+{"chinese_source": "丢了他家的可爱的狗。", "english_target_correct": "The cute dog of his home has been thrown.", "english_target_wrong": "The cute dog who threw his home."}
+{"chinese_source": "咬了他家人的野狗。", "english_target_correct": "The wild dog who bit his family.", "english_target_wrong": "The wild dog of his family was bitten."}
+{"chinese_source": "挖西瓜的勺子。", "english_target_correct": "The spoon which is used to dig the watermelon.", "english_target_wrong": "The spoon of the watermelon is dug."}
+{"chinese_source": "削西瓜的皮。", "english_target_correct": "The skin of the The watermelon is cut.", "english_target_wrong": "The skin which is used to cut the watermelon."}
+{"chinese_source": "维修桌子的桌脚。", "english_target_correct": "The table legs are repaired.", "english_target_wrong": "The lges which is used to repair the table."}
+{"chinese_source": "维修桌子的锤子。", "english_target_correct": "The hammer which is used to repair the table.", "english_target_wrong": "The hammer of the table is repaired."}
+{"chinese_source": "游览他国的总统。", "english_target_correct": "The president who visited other countries.", "english_target_wrong": "Visited the presidents of other countries."}
+{"chinese_source": "游览他国的景点。", "english_target_correct": "Visited the attractions of other countries.", "english_target_wrong": "The attraction which visited other countries."}
+{"chinese_source": "搜索程序的程序员。", "english_target_correct": "A programmer who searches for programs.", "english_target_wrong": "What is searched is the programmer of the program."}
+{"chinese_source": "搜索程序的代码。", "english_target_correct": "What is searched is the code of the program.", "english_target_wrong": "The code which searches for programs."}
+{"chinese_source": "三条河里的石头。 ", "english_target_correct": "Stones in three rivers.", "english_target_wrong": "Three stones in the river."}
+{"chinese_source": "三块河里的石头。", "english_target_correct": "Three stones in the river", "english_target_wrong": "Stones in three rivers."}
+{"chinese_source": "两匹草地上的马。", "english_target_correct": "Two horses on the grass.", "english_target_wrong": "Horses on two grasses."}
+{"chinese_source": "两片草地上的马。", "english_target_correct": "Horses on two grasses.", "english_target_wrong": "Two horses on the grass."}
+{"chinese_source": "三节玩具车的电池。", "english_target_correct": "Three batteries of the toy car.", "english_target_wrong": "The batteries of three toy cars."}
+{"chinese_source": "三辆玩具车的电池。", "english_target_correct": "The batteries of three toy cars.", "english_target_wrong": "Three batteries of the toy car."}
+{"chinese_source": "四架桌上的照相机。", "english_target_correct": "Four cameras on the table.", "english_target_wrong": "The cameras on four tables."}
+{"chinese_source": "四张桌上的照相机。", "english_target_correct": "The cameras on four tables.", "english_target_wrong": "Four cameras on the table."}
+{"chinese_source": "两把厨房里的菜刀。", "english_target_correct": "Two kitchen knives in the kitchen.", "english_target_wrong": "The kitchen knives in two kitchens."}
+{"chinese_source": "两处厨房里的菜刀。", "english_target_correct": "The kitchen knives in two kitchens.", "english_target_wrong": "Two kitchen knives in the kitchen."}
+{"chinese_source": "四篇报纸上的文章。", "english_target_correct": "Four articles in the newspaper.", "english_target_wrong": "The Articles in four newspapers."}
+{"chinese_source": "四张报纸上的文章。", "english_target_correct": "The Articles in four newspapers.", "english_target_wrong": "Four articles in the newspaper."}
+{"chinese_source": "参观了千年古建筑。", "english_target_correct": "Visited two thousand years' ancient building.", "english_target_wrong": "Visited the ancient building for two thousand years."}
+{"chinese_source": "参观了五小时古建筑。", "english_target_correct": "Visited the ancient building for five hours.", "english_target_wrong": "Visited a five-hour ancient building."}
+{"chinese_source": "挑选了十分钟木头。", "english_target_correct": "Pick a wood for ten minutes.", "english_target_wrong": "Pick a ten minutes of wood."}
+{"chinese_source": "挑选了千年木头。", "english_target_correct": "Pick a wood of thousand years.", "english_target_wrong": "Pick a wood for thousand years."}
+{"chinese_source": "扮演了两分钟角色。", "english_target_correct": "Played a role for two minutes.", "english_target_wrong": "Played a two-minutes' role."}
+{"chinese_source": "扮演了500年前人物。", "english_target_correct": "Played the character  who lived in 500 years ago.", "english_target_wrong": "Played a character 500 years ago."}
+{"chinese_source": "连续写了5份会议报告书。", "english_target_correct": "Five conference reports were written in succession.", "english_target_wrong": "The conference report were written for 5 in succession."}
+{"chinese_source": "连续写了5小时会议报告书。", "english_target_correct": "The coference report was written for 5 hours in succession.", "english_target_wrong": "A five-hour meeting report was written in succession."}
+{"chinese_source": "讲了2小时历史。", "english_target_correct": "Talking about history for 2 hours.", "english_target_wrong": "Speaking 2 hours' history."}
+{"chinese_source": "讲了1百年历史。", "english_target_correct": "Talking about a hunderd years' history.", "english_target_wrong": "Speaked for a hundred years of history."}
+{"chinese_source": "画了6分钟画。", "english_target_correct": "Drew a painting for six minutes.", "english_target_wrong": "Drew a six-minute painting."}
+{"chinese_source": "画了6幅画。", "english_target_correct": "Drew six paintings.", "english_target_wrong": "Drew paintings for six."}
+{"chinese_source": "做了5张试卷。", "english_target_correct": "Did five papers.", "english_target_wrong": "Did the paper for five."}
+{"chinese_source": "做了5分钟试卷。", "english_target_correct": "Did the paper for five minutes.", "english_target_wrong": "Did a five-minutes papers."}
+{"chinese_source": "销售快速的商品。", "english_target_correct": "The goods that sells rapidly.", "english_target_wrong": "Selling rapid goods."}
+{"chinese_source": "销售昂贵的商品。", "english_target_correct": "Selling expensive goods.", "english_target_wrong": "The goods that sells expensively."}
+{"chinese_source": "修建快速的建筑。", "english_target_correct": "Building a building quickly.", "english_target_wrong": "Building a fast building."}
+{"chinese_source": "修建巨大的建筑。", "english_target_correct": "Building a huge building.", "english_target_wrong": "Building a building hugely."}
+{"chinese_source": "探查无人的地区。", "english_target_correct": "Explore unmanned areas.", "english_target_wrong": "The area has been explored which no one does."}
+{"chinese_source": "探查明白的地区。", "english_target_correct": "The areas has been explored clearly.", "english_target_wrong": "Explore clear areas."}
+{"chinese_source": "观看精彩的电影。", "english_target_correct": "Watch a great movie.", "english_target_wrong": "The movie that watch Brilliantly."}
+{"chinese_source": "观看舒服的电影。", "english_target_correct": "feeling comfortable when watching the movie.", "english_target_wrong": "Watch a comfortable movie."}
+{"chinese_source": "采购顺利的产品。", "english_target_correct": "The product that is purchased successfully.", "english_target_wrong": "Purchasing successful products."}
+{"chinese_source": "采购易碎的产品。", "english_target_correct": "Purchasing fragile products.", "english_target_wrong": "The product that is purchased frailly ."}
+{"chinese_source": "研究困难的问题。", "english_target_correct": "Study difficult problems.", "english_target_wrong": "The question is studied difficultly."}
+{"chinese_source": "研究清楚的问题。", "english_target_correct": "The question is studied clearly.", "english_target_wrong": "Study clear questions."}
+{"chinese_source": "操纵方便的机器。", "english_target_correct": "The machine that is manipulated conveniently.", "english_target_wrong": "Manipulate convenient machines."}
+{"chinese_source": "操纵重要的机器。", "english_target_correct": "Manipulate important machines.", "english_target_wrong": "The machine that is manipulated weightily."}
+{"chinese_source": "囚禁凶狠的罪犯。", "english_target_correct": "Imprison a fierce criminal.", "english_target_wrong": "The criminal has been imprisoned fiercely."}
+{"chinese_source": "囚禁严密的罪犯。", "english_target_correct": "The criminal has been imprisoned tightly.", "english_target_wrong": "Imprisoned a tight criminals."}
+{"chinese_source": "交老师作业本。", "english_target_correct": "Hand homework to teacher.", "english_target_wrong": "Hand in the teacher's homework."}
+{"chinese_source": "交红色作业本。", "english_target_correct": "Hand in the red homework.", "english_target_wrong": "Hand homework to red."}
+{"chinese_source": "捐赠图书馆图书。", "english_target_correct": "Donate books to library.", "english_target_wrong": "Donate library's books."}
+{"chinese_source": "捐赠国外图书。", "english_target_correct": "Donate foreign books.", "english_target_wrong": "Donate books to foreign country."}
+{"chinese_source": "送过生日的领导礼物。", "english_target_correct": "Send a gift to the leader on his  birthday.", "english_target_wrong": "Send a leader's gift on its birthday."}
+{"chinese_source": "送生日礼物。", "english_target_correct": "Send a birthday gift.", "english_target_wrong": "Send a gift to birthday."}
+{"chinese_source": "毯子和凳子的腿都坏了。", "english_target_correct": "The blanket and the legs of the stool were broken.", "english_target_wrong": "The legs of the blanket and the stool were broken."}
+{"chinese_source": "他的衣服的袖子和拐杖都脏了。", "english_target_correct": "The sleeves of his clothes and crutches are dirty.", "english_target_wrong": "The sleeves and crutches of his clothes are dirty."}
+{"chinese_source": "电脑的屏幕和椅子需要摆放整齐。", "english_target_correct": "The mainframe of the computer and chair  need to be neatly arranged.", "english_target_wrong": "The mainframe and chair of the computer need to be neatly arranged."}
+{"chinese_source": "桌子上的电脑和沙发都要扔掉。", "english_target_correct": "The computer on the table and the sofa  should be thrown away.", "english_target_wrong": "The computer and the sofa on the table should be thrown away."}
+{"chinese_source": "在这个商场工作的保安人员和警察在大楼外面交流。", "english_target_correct": "Security guards working in the mall and police communicate outside the building.", "english_target_wrong": "Security guards and police working in the mall communicate outside the building."}
+{"chinese_source": "在空中的小鸟和鱼都是他的捕猎对象。  ", "english_target_correct": "The birds in the air and fish  are his hunting objects.", "english_target_wrong": "The birds and fish in the air are his hunting objects."}
+{"chinese_source": "收获的是勤劳的农夫。", "english_target_correct": "It's the hardworking farmer that harvest.", "english_target_wrong": "What is harvested is a hardworking farmer."}
+{"chinese_source": "收获的是可口的果实。", "english_target_correct": "What is harvested is delicious fruit.", "english_target_wrong": "It is the delicious fruit that harvest."}
+{"chinese_source": "创造的是一个科学家。", "english_target_correct": "It is a scientist that create.", "english_target_wrong": "What is created is a scientist."}
+{"chinese_source": "创造的是一个机器人。", "english_target_correct": "What is created is a robot.", "english_target_wrong": "It is a robot that create."}
+{"chinese_source": "严厉打击的是偷窃行为。", "english_target_correct": "What is severely attacked is theft.", "english_target_wrong": "It is the theft that attack severely."}
+{"chinese_source": "严厉打击的是久经训练的特警。", "english_target_correct": "It is the well-trained special police that attack severely.", "english_target_wrong": "What is severely attacked is a well-trained special police."}
+{"chinese_source": "调查的是这桩贪污腐败案件。", "english_target_correct": "The investigation was about this corruption case.", "english_target_wrong": "The investigation was conducted by this corruption case."}
+{"chinese_source": "调查的是这桩案件中贪污的人员。", "english_target_correct": "The investigation was conducted on the corrupted personnel in this case. ", "english_target_wrong": "The investigation was conducted by the corrupted personnel in this case. "}
+{"chinese_source": "错失的是这次难得的机会。", "english_target_correct": "What is missed is this rare opportunity.", "english_target_wrong": "It's the rare opportunity that miss."}
+{"chinese_source": "错失的是等待机会很久的运动员们。", "english_target_correct": "Tt's the athletes who have waited for a long time that miss.", "english_target_wrong": "What is missed is the athletes who waited for a long time."}
+{"chinese_source": "表演的是来自省里的一线演员。", "english_target_correct": "The performance Is given by the A-list actors in the province.", "english_target_wrong": "The performance is about the A-list actors in the province."}
+{"chinese_source": "表演的是西游记里的孙悟空。", "english_target_correct": "The performance is about the Monkey King in the Journey to the West.", "english_target_wrong": "The performance is given by  the Monkey King in the Journey to the West."}
+{"chinese_source": "推出的是一款跨时代的手机。", "english_target_correct": "What is introduced is an inter-generational mobile phone.", "english_target_wrong": "It is an inter-generational mobile phone that launch it."}
+{"chinese_source": "推出的是一家伟大的公司。", "english_target_correct": "It is a great company that launch it.", "english_target_wrong": "What is launched is a great company."}
+{"chinese_source": "科研的是一线的科学家。", "english_target_correct": "It is the frontline scientist that do scientific research.", "english_target_wrong": "What is researched is the frontline scientist."}
+{"chinese_source": "科研的是国际上的新兴领域。", "english_target_correct": "What is researched is an emerging field in the world.", "english_target_wrong": "It is the emerging field in the world that do scientific research."}
+{"chinese_source": "研究的是国际知名数学难题。", "english_target_correct": "What is studied is an internationally renowned mathematical problem.", "english_target_wrong": "It is the internationally renowned mathematical problem that study."}
+{"chinese_source": "研究的是专攻数学题的国际知名数学家。", "english_target_correct": "It is the internationally renowned mathematician specializing in math problems that study.", "english_target_wrong": "What is studied is the internationally renowned mathematician specializing in math problems."}
+{"chinese_source": "解出的是五道国际知名数学难题。", "english_target_correct": "What is solved is five internationally renowned mathematical problems.", "english_target_wrong": "It's the five internationally renowned mathematical problems that solve it."}
+{"chinese_source": "解出来的是五位国际知名数学家。", "english_target_correct": "It's the five internationally renowned mathematicians that solve it.", "english_target_wrong": "What is solved is five internationally renowned mathematicians."}
+{"chinese_source": "杀了房东的猫。", "english_target_correct": "Killed the landlord's cat.", "english_target_wrong": "The cat killed the landlord."}
+{"chinese_source": "杀了房东的杀手。", "english_target_correct": "The killer killed the landlord.", "english_target_wrong": "Killed the landlord's killer."}
+{"chinese_source": "装修房子的工作室人员。", "english_target_correct": "The studio staff who renovated the house.", "english_target_wrong": "Renovating the studio staff of the house."}
+{"chinese_source": "装修房子的工作室房间。", "english_target_correct": "Renovating the studio room of the house.", "english_target_wrong": "The studio room who renovated the house."}
+{"chinese_source": "研究代码的整体架构。", "english_target_correct": "Study the overall architecture of the code.", "english_target_wrong": "The overall architecture who research the code."}
+{"chinese_source": "研究代码的整体架构师。", "english_target_correct": "The general architect who research the code.", "english_target_wrong": "Study the general architect of the code."}
+{"chinese_source": "参观大皇宫的内部构造。", "english_target_correct": "Visit the internal structure of the Grand Palace.", "english_target_wrong": "The internal structure who visit the Grand Palace."}
+{"chinese_source": "参观大皇宫的内部人员。", "english_target_correct": "The internal personnel who visit the Grand Palace.", "english_target_wrong": "Visit the internal personnel of the Grand Palace."}
+{"chinese_source": "制裁伊朗的经济。", "english_target_correct": "Sanction the Iranian economy.", "english_target_wrong": "The economy who sanction Iran."}
+{"chinese_source": "制裁伊朗的经济大国。", "english_target_correct": "The economic power who sanction Iran.", "english_target_wrong": "Sanction Iran's economic power."}
+{"chinese_source": "发展国家的经济水平。", "english_target_correct": "Develop the economic level of the country.", "english_target_wrong": "The economic level who develop the country."}
+{"chinese_source": "发展国家的经济学专家。", "english_target_correct": "The economic experts who develop the country.", "english_target_wrong": "Develop economic experts in the country."}
+{"chinese_source": "打击经济犯罪的团伙。", "english_target_correct": "Combat the gangs of economic crimes.", "english_target_wrong": "A gang that fights economic crimes."}
+{"chinese_source": "打击经济犯罪的警察。", "english_target_correct": "The police who combat economic crimes.", "english_target_wrong": "Combat the police of economic crimes."}
+{"chinese_source": "调查重大案件的嫌疑人。", "english_target_correct": "Investigate suspects in major cases.", "english_target_wrong": "The suspects who investigate major cases."}
+{"chinese_source": "调查重大案件嫌疑人的刑警。", "english_target_correct": "The criminal police who investigate the suspects in major cases.", "english_target_wrong": "Investigate the criminal police of suspects in major cases."}
+{"chinese_source": "喜欢旅游的过程中遇到的旅行家。", "english_target_correct": "Love travellers who I met in the process of traveling.", "english_target_wrong": "Travellers who love meeting in the process of traveling."}
+{"chinese_source": "喜欢旅游的过程的旅行家。", "english_target_correct": "Travellers who like the process of travel.", "english_target_wrong": "Love travellers during the process of travel."}
+{"chinese_source": "一件橱柜里的衣服。", "english_target_correct": "A piece of clothing in the cupboard.", "english_target_wrong": "Clothes in a cupboard."}
+{"chinese_source": "一个橱柜里的衣服。", "english_target_correct": "Clothes in a cupboard.", "english_target_wrong": "A piece of clothing in the cupboard."}
+{"chinese_source": "三座寺庙里的和尚。", "english_target_correct": "The monks in the three temples.", "english_target_wrong": "Three monks in the temple."}
+{"chinese_source": "三位寺庙里的和尚。", "english_target_correct": "Three monks in the temple.", "english_target_wrong": "The monks in the three temples."}
+{"chinese_source": "四台桌上的电脑。", "english_target_correct": "Four computers on the table.", "english_target_wrong": "Computers on the four tables."}
+{"chinese_source": "四张桌上的电脑。", "english_target_correct": "Computers on the four tables.", "english_target_wrong": "Four computers on the table."}
+{"chinese_source": "五张床上的手机。", "english_target_correct": "Phones on five beds.", "english_target_wrong": "Five phones on the bed."}
+{"chinese_source": "五只床上的手机。", "english_target_correct": "Five phones on the bed.", "english_target_wrong": "Phones on five beds."}
+{"chinese_source": "六本杂志上的封面人物。", "english_target_correct": "Cover characters on six magazines.", "english_target_wrong": "Six cover characters on the magazine."}
+{"chinese_source": "六位杂志上的封面人物。", "english_target_correct": "Six cover characters on the magazine.", "english_target_wrong": "Cover characters on six magazines."}
+{"chinese_source": "七朵盆栽中的鲜花。", "english_target_correct": "Seven flowers in the pot.", "english_target_wrong": "Flowers in seven pots."}
+{"chinese_source": "七盆盆栽里的鲜花。", "english_target_correct": "Flowers in seven pots.", "english_target_wrong": "Seven flowers in the pot."}
+{"chinese_source": "八枚钱包里的硬币。", "english_target_correct": "Eight coins in the wallet.", "english_target_wrong": "Coins in eight wallets."}
+{"chinese_source": "八只钱包里的硬币。", "english_target_correct": "Coins in eight wallets.", "english_target_wrong": "Eight coins in the wallet."}
+{"chinese_source": "九位电影中的演员。", "english_target_correct": "Nine actors in the movie.", "english_target_wrong": "The actors in the nine movies."}
+{"chinese_source": "九场电影中的情节。", "english_target_correct": "The plots in nine movies.", "english_target_wrong": "Nine plots in the movie."}
+{"chinese_source": "老师讲了三天的历史。", "english_target_correct": "The teacher taught the history for three days.", "english_target_wrong": "The teacher taught the history of three days."}
+{"chinese_source": "老师教了三千年的历史。", "english_target_correct": "The teacher taught the history of three thousand years.", "english_target_wrong": "The teacher taught the history for three thousand years."}
+{"chinese_source": "演出了两天的历史剧。", "english_target_correct": "Performed a historical drama for 2 days.", "english_target_wrong": "Performed a historical drama of 2 days."}
+{"chinese_source": "演出了两千年的历史剧。", "english_target_correct": "Performed a historical drama of two thousand years.", "english_target_wrong": "Performed a historical drama for two thousand years."}
+{"chinese_source": "写了三天作业。", "english_target_correct": "I wrote assignments for three days.", "english_target_wrong": "I wrote three-day assignments."}
+{"chinese_source": "写了三张作业。", "english_target_correct": "I wrote three assignments.", "english_target_wrong": "I wrote assignments for three papers."}
+{"chinese_source": "卖了十几年车。", "english_target_correct": "Sold cars for more than ten years.", "english_target_wrong": "Sold a car which was used for more than ten years."}
+{"chinese_source": "卖了辆十几年的车。", "english_target_correct": "Sold a car which was used for more than ten years.", "english_target_wrong": "Sold cars for more than ten years."}
+{"chinese_source": "我看了十几年电影。", "english_target_correct": "I have watched movies for more than ten years.", "english_target_wrong": "I watched a movie which was played ten years ago."}
+{"chinese_source": "我看了部十几年前的电影。", "english_target_correct": "I watched a movie which was played ten years ago.", "english_target_wrong": "I have watched movies for more than ten years."}
+{"chinese_source": "经营了十几年店铺。", "english_target_correct": "Has been operating a store for more than ten years.", "english_target_wrong": "I have run a store that has opened for more than ten years."}
+{"chinese_source": "经营了家十几年的店铺。", "english_target_correct": "I have run a store that has opened for more than ten years.", "english_target_wrong": "Has been operating for more than ten years."}
+{"chinese_source": "曾经重要的历史转折点。", "english_target_correct": "A once-meaningful historical turning point.", "english_target_wrong": "A once-meaningful turning point in the history."}
+{"chinese_source": "意义重要的历史转折点。", "english_target_correct": "A significant turning point  in the history.", "english_target_wrong": "A significant turning historical point  in the history.."}
+{"chinese_source": "购买困难的商品。", "english_target_correct": "Goods that are bought difficultly.", "english_target_wrong": "Buying difficult goods."}
+{"chinese_source": "购买便宜的商品。", "english_target_correct": "Buy cheap goods.", "english_target_wrong": "Goods that are bought cheaply."}
+{"chinese_source": "销售困难的产品。", "english_target_correct": "Products that are difficult to sell.", "english_target_wrong": "Selling difficult products."}
+{"chinese_source": "销售便宜的劣质产品。", "english_target_correct": "Selling cheap and inferior products.", "english_target_wrong": "Inferior products that are sold cheaply."}
+{"chinese_source": "情节精彩的电视剧。", "english_target_correct": "TV series that have wonderful plots.", "english_target_wrong": "Wonderful TV series in the plots."}
+{"chinese_source": "晚上精彩的电视剧。", "english_target_correct": "Wonderful TV series in the evening.", "english_target_wrong": "TV series that have wonderful evenings."}
+{"chinese_source": "感觉愉悦的气氛。", "english_target_correct": "The pleasant atmosphere.", "english_target_wrong": "Feel the pleasant atmosphere."}
+{"chinese_source": "享受快乐的气氛。", "english_target_correct": "Enjoy the delightful  atmosphere.", "english_target_wrong": "The delightful  atmosphere.."}
+{"chinese_source": "研究简单的问题。", "english_target_correct": "Study simple questions.", "english_target_wrong": "The problem that has been  studied simply."}
+{"chinese_source": "研究完成的问题。", "english_target_correct": "The problem that has been studied completely.", "english_target_wrong": "Study the completed problem."}
+{"chinese_source": "考察严格的考官。", "english_target_correct": "Examiners that examine strictly.", "english_target_wrong": "Examine the strict examiner."}
+{"chinese_source": "考察落后的学生。", "english_target_correct": "Investigate underachieving  students.", "english_target_wrong": "Students that investigate poorly."}
+{"chinese_source": "咬死了猎人的猫。", "english_target_correct": "Killed the hunter's cat.", "english_target_wrong": "The cat that killed the hunter."}
+{"chinese_source": "咬死了狐狸的老虎。", "english_target_correct": "The tiger that killed the fox.", "english_target_wrong": "Killed the fox's tiger."}
+{"chinese_source": "杀死了猎人的狗。", "english_target_correct": "Killed the hunter's dog", "english_target_wrong": "The dog that killed the hunter."}
+{"chinese_source": "杀死了猎人的老虎。", "english_target_correct": "The tiger that killed the hunter.", "english_target_wrong": "Killed the hunter's tiger"}
+{"chinese_source": "吃掉了蛋糕的巧克力。", "english_target_correct": "Eat the chocolate of the cake.", "english_target_wrong": "The chocolate that ate the cake."}
+{"chinese_source": "吃掉了蛋糕的小孩。", "english_target_correct": "The child who ate the cake.", "english_target_wrong": "Eat the child of the cake."}
+{"chinese_source": "爱上了明星的女孩儿。", "english_target_correct": "The girl who falls in love with the star.", "english_target_wrong": "Fall in love with the girl of the star."}
+{"chinese_source": "爱上了明星的作品。", "english_target_correct": "Fall in love with the works of the stars.", "english_target_wrong": "The works who fall in love with the stars."}
+{"chinese_source": "错怪了父母的良苦用心。", "english_target_correct": "Wrongly blame the parents for their good intentions.", "english_target_wrong": "The good intentions who wrongly blame the parents."}
+{"chinese_source": "错怪了父母的小孩子。", "english_target_correct": "The child who wrongly blame the parents.", "english_target_wrong": "Wrongly blame the parents' child."}
+{"chinese_source": "维修了房间的窗户。", "english_target_correct": "Repaired the windows of the room.", "english_target_wrong": "The windows who repaired the room."}
+{"chinese_source": "维修了房间的装修工。", "english_target_correct": "The decorator who repaired the room.", "english_target_wrong": "Repaired the decorator of the room."}
+{"chinese_source": "水里的鲨鱼和老虎都是凶猛的动物。", "english_target_correct": "Sharks in the water and tiger  are ferocious animals.", "english_target_wrong": "Sharks and tiger in the water are ferocious animals."}
+{"chinese_source": "他在一张照片里面拍下了空中的小鸟和猎豹。", "english_target_correct": "He took a photo for  the birds in the air and cheetahs.", "english_target_wrong": "He He took a photo for  the birds and cheetahs in the air."}
+{"chinese_source": "采收的是果园里的成熟的果实。", "english_target_correct": "What is harvested is the ripe fruit in the orchard.", "english_target_wrong": "The ripe fruit is harvesting in the orchard."}
+{"chinese_source": "采收的是果园里的专业的果农。", "english_target_correct": "The professional fruit grower is harvesting in the orchard.", "english_target_wrong": "What is harvested is a professional fruit grower in the orchard."}
+{"chinese_source": "正在手术的是医院里临床经验最丰富的医生。", "english_target_correct": "It is the doctor with the most clinical experience in the hospital that is operating.", "english_target_wrong": "It is the doctor with the most clinical experience in the hospital that is operating."}
+{"chinese_source": "正在手术的是患上了严重疾病的病人。", "english_target_correct": "It is a patient with a serious illness that is undergoing surgery.", "english_target_wrong": "It is a patient with a serious illness that is undergoing surgery."}
+{"chinese_source": "调研乡镇的经济。", "english_target_correct": "Investigate the economy of townships.", "english_target_wrong": "The economy who investigate the township."}
+{"chinese_source": "调研乡镇的经济学家。", "english_target_correct": "The economist who investigate the township.", "english_target_wrong": "Investigate the economists of the township ."}
+{"chinese_source": "记录实验的整个过程。", "english_target_correct": "Record the entire process of the experiment.", "english_target_wrong": "The process which records the entire process of the experiment."}
+{"chinese_source": "记录实验的生物学家。", "english_target_correct": "The biologist who records the experiment.", "english_target_wrong": "Record the biologist of the experiment."}
+{"chinese_source": "削苹果的刀。", "english_target_correct": "The knife that cut apples.", "english_target_wrong": "Cut the apple's knife."}
+{"chinese_source": "削苹果的皮。", "english_target_correct": "Cut the skin of the apple.", "english_target_wrong": "The skin that cut apples."}
+{"chinese_source": "修理木头桌子的桌脚。", "english_target_correct": "Repair the table legs of the wooden table.", "english_target_wrong": "The table legs that is used to repair the wooden table."}
+{"chinese_source": "修理木头桌子的锯子。", "english_target_correct": "The saw that is used to repair the wooden table.", "english_target_wrong": "Repair the saw of the wooden table."}
+{"chinese_source": "三位学校的实验员。", "english_target_correct": "Three laboratory staff at the school.", "english_target_wrong": "Laboratory staff at three schools."}
+{"chinese_source": "三所学校的实验员。", "english_target_correct": "Laboratory staff at three schools.", "english_target_wrong": "Three laboratory staff at the school."}
+{"chinese_source": "五件房屋里的家具。", "english_target_correct": "Five furnitures in the house.", "english_target_wrong": "Furniture in five houses."}
+{"chinese_source": "五栋房屋里的家具。", "english_target_correct": "Furniture in five houses.", "english_target_wrong": "Five furnitures in the house."}
+{"chinese_source": "十台商场里的电视机。", "english_target_correct": "Ten TVs in the shopping mall.", "english_target_wrong": "TVs in ten shopping malls."}
+{"chinese_source": "十家商场里的电视机。", "english_target_correct": "TVs in ten shopping malls.", "english_target_wrong": "Ten TVs in the shopping mall."}
+{"chinese_source": "六把房间里的椅子。", "english_target_correct": "Six chairs in the room.", "english_target_wrong": "Chairs in six rooms."}
+{"chinese_source": "六间房间里的椅子。", "english_target_correct": "Chairs in six rooms.", "english_target_wrong": "Six chairs in the room."}
+{"chinese_source": "参观了百年宫殿。", "english_target_correct": "Visited the century-old palace.", "english_target_wrong": "Visited the palace for one century."}
+{"chinese_source": "参观了五分钟宫殿。", "english_target_correct": "Visited the palace for five minutes.", "english_target_wrong": "Visited the five minutes palace."}
+{"chinese_source": "连续写了2天家庭作业。", "english_target_correct": "I Wrote homework for 2 days.", "english_target_wrong": "I wrote 2 days of homework."}
+{"chinese_source": "连续写了2本家庭作业。", "english_target_correct": "I wrote 2 homework assignments.", "english_target_wrong": "I wrote homework for 2 assignments."}
+{"chinese_source": "画了4天画。", "english_target_correct": "Drew paintings for 4 days.", "english_target_wrong": "Drew four paintings."}
+{"chinese_source": "画了4幅画。", "english_target_correct": "Drew four paintings.", "english_target_wrong": "Drew paintings for 4 days."}
+{"chinese_source": "嫌疑人害怕的情绪。", "english_target_correct": "Suspects's feeling of alarm.", "english_target_wrong": "Emotions in which the suspect was scared."}
+{"chinese_source": "嫌疑人害怕的场景。", "english_target_correct": "The scene in which the suspect was scared.", "english_target_wrong": "Suspects's scene of alarm."}
+{"chinese_source": "口味独特的食物。", "english_target_correct": "Food of a unique taste.", "english_target_wrong": "Unique food in the taste."}
+{"chinese_source": "北方独特的食物。", "english_target_correct": "Unique food in the north.", "english_target_wrong": "Food of a unique north."}
+{"chinese_source": "销售迅速的商品。", "english_target_correct": "Goods that was sold fast.", "english_target_wrong": "Selling fast goods."}
+{"chinese_source": "销售昂贵的商品。", "english_target_correct": "Selling expensive goods.", "english_target_wrong": "Goods that was sold expensive."}
+{"chinese_source": "闻起来美味的粥。", "english_target_correct": "Porridge that smells delicious.", "english_target_wrong": "Smell delicious porridge."}
+{"chinese_source": "品尝美味的粥。", "english_target_correct": "Taste delicious porridge.", "english_target_wrong": "Porridge that tastes delicious."}
+{"chinese_source": "摸起来舒服的沙发。", "english_target_correct": "A sofa that feels comfortable.", "english_target_wrong": "Feel comfortable sofa ."}
+{"chinese_source": "选购舒服的沙发。", "english_target_correct": "Choose a comfortable sofa.", "english_target_wrong": "A sofa that chooses comfortable."}
+{"chinese_source": "买卖便宜的货物。", "english_target_correct": "Buy and sell cheap goods.", "english_target_wrong": "Goods that  is bought and sold cheaply."}
+{"chinese_source": "买卖方便的货物。", "english_target_correct": "Goods that is bought and sold conveniently.", "english_target_wrong": "Buy and sell convenient goods."}
+{"chinese_source": "他考第一名太好了。", "english_target_correct": "It's wonderful that he takes the first place.", "english_target_wrong": "His first place is very good."}
+{"chinese_source": "他考成绩太好了。", "english_target_correct": "His test score is very good.", "english_target_wrong": "It's wonderful that his test scores."}
+{"chinese_source": "鼓励的是这种行为。", "english_target_correct": "This behavior is encouraged.", "english_target_wrong": "This behavior is encouraging."}
+{"chinese_source": "鼓励的是鼓励师。", "english_target_correct": "It's the encourage teachers that encourage.", "english_target_wrong": "The encourage teacher is encouraged."}
+{"chinese_source": "嘉奖的是这种英勇的行为。", "english_target_correct": "It's the heroic acts that are awarded.", "english_target_wrong": "The heroic acts are awarding."}
+{"chinese_source": "嘉奖的是颁奖嘉宾。", "english_target_correct": "The guests are awarding.", "english_target_wrong": "It's the guests that are awarded."}
+{"chinese_source": "严打的是偷窃行为。", "english_target_correct": "Theft is strictly cracked down.", "english_target_wrong": "It is the theft that strictly cracks down."}
+{"chinese_source": "严打的是久经训练的特警。", "english_target_correct": "It is the well-trained special polices that strictly crack down.", "english_target_wrong": "The well-trained special police is strictly cracked down."}
+{"chinese_source": "调查的是这桩案件。", "english_target_correct": "The case was investigated.", "english_target_wrong": "The investigation was conducted by the case."}
+{"chinese_source": "调查的是来自省里的特聘刑侦专家。", "english_target_correct": "The investigation was conducted by a special criminal investigation expert from the province.", "english_target_wrong": "The special criminal investigation expert from the province was investigated."}
+{"chinese_source": "查处的是大量走私物品。", "english_target_correct": "A large number of smuggled goods are investigated.", "english_target_wrong": "A large number of smuggled goods  are investigating."}
+{"chinese_source": "查处的是缉拿走私物品的警官。", "english_target_correct": "The police officers who seize the smuggled goods is investigating.", "english_target_wrong": "The police officers who seize the smuggled goods were investigated."}
+{"chinese_source": "研究的是国际知名数学难题。", "english_target_correct": "The internationally renowned mathematical problem is studied.", "english_target_wrong": "It is the internationally renowned mathematical problem that study."}
+{"chinese_source": "研究的是国际知名数学家。", "english_target_correct": "It is the internationally renowned mathematicians who study.", "english_target_wrong": "The internationally renowned mathematicians are studied."}
+{"chinese_source": "装修房子的卧室。", "english_target_correct": "Renovate the bedroom of the house.", "english_target_wrong": "Bedrooms decorating the house."}
+{"chinese_source": "装修房子的工人。", "english_target_correct": "Workers decorating the house.", "english_target_wrong": "Renovate the bedroom of the house."}
+{"chinese_source": "研究代码的程序员。", "english_target_correct": "The programmer who studies the code.", "english_target_wrong": "Study the programmer of the code."}
+{"chinese_source": "研究代码的细节问题。", "english_target_correct": "Study the details of the code.", "english_target_wrong": "The problem who studies the details of the code."}
+{"chinese_source": "变革整个世界的伟人。", "english_target_correct": "The great people who transformed the entire world.", "english_target_wrong": "Transforming the great people of the entire world."}
+{"chinese_source": "变革整个世界的格局。", "english_target_correct": "Transforming the pattern of the entire world.", "english_target_wrong": "The pattern which transformed the entire world."}
+{"chinese_source": "解决这道数学难题的关键人物。", "english_target_correct": "The key person to solve this mathematical problem.", "english_target_wrong": "Solve the key person of this mathematical problem."}
+{"chinese_source": "解决这道数学难题的部分内容。", "english_target_correct": "Solve part of this math problem.", "english_target_wrong": "The part component to solve this math problem."}
+{"chinese_source": "调查交通事故的交警。", "english_target_correct": "The traffic police who investigated the traffic accidents.", "english_target_wrong": "Investigate the traffic police of traffic accidents."}
+{"chinese_source": "调查交通事故的起因。", "english_target_correct": "Investigate the cause of traffic accidents.", "english_target_wrong": "The causes which investigate traffic accidents."}
+{"chinese_source": "喜欢旅游的过程。", "english_target_correct": "Like the process of travel.", "english_target_wrong": "The process who likes to travel."}
+{"chinese_source": "喜欢旅游的旅行家们。", "english_target_correct": "Travellers who like to travel.", "english_target_wrong": "Like travellers of travel."}
+{"chinese_source": "两套橱柜里的衣服。", "english_target_correct": "Two sets of clothes in the cupboard.", "english_target_wrong": "Clothes in two cupboards."}
+{"chinese_source": "两个橱柜里的衣服。", "english_target_correct": "Clothes in two cupboards.", "english_target_wrong": "Two sets of clothes in the cupboard."}
+{"chinese_source": "三把桌上的雨伞。", "english_target_correct": "Three umbrellas on the table.", "english_target_wrong": "Umbrellas on the three tables."}
+{"chinese_source": "三张桌上的雨伞。", "english_target_correct": "Umbrellas on the three tables.", "english_target_wrong": "Three umbrellas on the table."}
+{"chinese_source": "四根蛋糕上的蜡烛。", "english_target_correct": "Four candles on the cake.", "english_target_wrong": "Candles on four cakes."}
+{"chinese_source": "四个蛋糕上的蜡烛。", "english_target_correct": "Candles on four cakes.", "english_target_wrong": "Four candles on the cake."}
+{"chinese_source": "五场比赛中的冠军。", "english_target_correct": "The champions in five games.", "english_target_wrong": "Five champions of the competitions."}
+{"chinese_source": "五位比赛中的冠军。", "english_target_correct": "Five champions of the competitions.", "english_target_wrong": "The champions in five games."}
+{"chinese_source": "六把库房里的步枪。", "english_target_correct": "Six rifles in the warehouse.", "english_target_wrong": "Rifles in six warehouses."}
+{"chinese_source": "六个库房里的步枪。", "english_target_correct": "Rifles in six warehouses.", "english_target_wrong": "Six rifles in the warehouse."}
+{"chinese_source": "两张演唱会的门票。", "english_target_correct": "Two tickets for the concert.", "english_target_wrong": "Tickets for two concerts."}
+{"chinese_source": "两场演唱会的门票。", "english_target_correct": "Tickets for two concerts.", "english_target_wrong": "Two tickets for the concert."}
+{"chinese_source": "学校经验重足的老师。", "english_target_correct": "Teachers with a lot of experience at school.", "english_target_wrong": "A teacher with a lot of school experience."}
+{"chinese_source": "学校配置充足的老师。", "english_target_correct": "The school is fully equipped with teachers.", "english_target_wrong": "Teachers with a lot of equipments at school."}
+{"chinese_source": "军队配备精良的武器。", "english_target_correct": "The army is equipped with sophisticated weapons.", "english_target_wrong": "Weapons equipped with sophisticated weapons in the army."}
+{"chinese_source": "军队装备精良的战士。", "english_target_correct": "Soldiers equipped with sophisticated weapons in the army.", "english_target_wrong": "The army is equipped with sophisticated soldiers."}
+{"chinese_source": "解释清楚问题。", "english_target_correct": "Explain the problem clearly.", "english_target_wrong": "Explain clear problems."}
+{"chinese_source": "解释复杂问题。", "english_target_correct": "Explain complex issues.", "english_target_wrong": "Explain issues complexly."}
+{"chinese_source": "继承发展传统文化。", "english_target_correct": "Inherit and develop traditional culture.", "english_target_wrong": "Inherit the traditional culture of developing."}
+{"chinese_source": "继承绘画传统文化。", "english_target_correct": "Inherit the traditional culture of painting.", "english_target_wrong": "Inherit and paint traditional culture."}
+{"chinese_source": "卖掉了猎人的狗。", "english_target_correct": "Sold the hunter's dog.", "english_target_wrong": "The dog who sold the hunter."}
+{"chinese_source": "卖掉了狗的猎人。", "english_target_correct": "The hunter who sold the dog.", "english_target_wrong": "Sold the dog's hunter."}
+{"chinese_source": "伤害了别人的话语。", "english_target_correct": "Words that hurt others.", "english_target_wrong": "It hurts the words of others."}
+{"chinese_source": "伤害了别人的感情。", "english_target_correct": "It hurts the feelings of others.", "english_target_wrong": "Feelings that hurt others."}
+{"chinese_source": "感动了父母的小孩。", "english_target_correct": "The child who touched the parents.", "english_target_wrong": "Touched the parents' child."}
+{"chinese_source": "感动了父母的内心。", "english_target_correct": "Touched the parents' heart.", "english_target_wrong": "The heart that touched the parents."}
+{"chinese_source": "点燃了内心的复仇火焰。", "english_target_correct": "Ignited the inner revenge flame.", "english_target_wrong": "The inner revenge flame that ignited heart."}
+{"chinese_source": "点燃了内心的温暖画面。", "english_target_correct": "The picture that illuminates the heart.", "english_target_wrong": "Lighted the picture of warmth in the heart."}
+{"chinese_source": "维修了房间的窗户。", "english_target_correct": "Repaired the windows of the room.", "english_target_wrong": "The windows that repaired the room."}
+{"chinese_source": "维修了房间的工人。", "english_target_correct": "The worker who repaired the room.", "english_target_wrong": "Repaired the workers of the room."}
+{"chinese_source": "审判的是一个法官。", "english_target_correct": "The trial was conducted by a judge.", "english_target_wrong": "A judge was brought to trial."}
+{"chinese_source": "审判的是一个罪犯。", "english_target_correct": "A criminal was brought to trial.", "english_target_wrong": "The trial was conducted by a criminal."}
+{"chinese_source": "教导的是我的老师。", "english_target_correct": "My teacher is teaching.", "english_target_wrong": "My teacher was taught."}
+{"chinese_source": "教导的是热爱学习的学生。", "english_target_correct": "Students who love learning are taught.", "english_target_wrong": "Students who love learning are teaching."}
+{"chinese_source": "喜欢这篇文章的文笔。", "english_target_correct": "Like the writing of this article.", "english_target_wrong": "Writings which like this article."}
+{"chinese_source": "喜欢这篇文章的文艺青年。", "english_target_correct": "Literary youths who like this article.", "english_target_wrong": "Like the literary youth of this article."}
+{"chinese_source": "倾听动人音乐的歌词。", "english_target_correct": "Listen to the lyrics of moving music.", "english_target_wrong": "Lyrics listening to moving music."}
+{"chinese_source": "倾听动人音乐的听众。", "english_target_correct": "Listeners listening to moving music.", "english_target_wrong": "Listen to the listeners of moving music."}
+{"chinese_source": "欣赏园林的动人风景。", "english_target_correct": "Admire the beautiful scenery of the garden.", "english_target_wrong": "Beautiful sceneries admiring the garden."}
+{"chinese_source": "欣赏园林的游客。", "english_target_correct": "Tourists admiring the garden.", "english_target_wrong": "Admire the tourists of the garden."}
+{"chinese_source": "漫步在太空的空间站。", "english_target_correct": "Walk through the space station in outerspace.", "english_target_wrong": "Space station walking through outerspace."}
+{"chinese_source": "漫步在太空的宇航员。", "english_target_correct": "Astronaut walking through space.", "english_target_wrong": "Walk through the astronaut in space."}
+{"chinese_source": "破坏的是历史古迹。", "english_target_correct": "What was destroyed were historical monuments.", "english_target_wrong": "It is historical monuments who destroy."}
+{"chinese_source": "破坏的是没素质的游客。", "english_target_correct": "It is poorly educated tourists who destroy.", "english_target_wrong": "What was destroyed were  poorly educated  tourists."}
+{"chinese_source": "屠杀的是当地的保护动物。", "english_target_correct": "Local protected animals were killed.", "english_target_wrong": "Local protected animals were killing."}
+{"chinese_source": "屠杀的是贪婪的偷猎者。", "english_target_correct": "The greedy poachers were killing.", "english_target_wrong": "The greedy poachers were killed."}
+{"chinese_source": "踩踏花园的花朵。", "english_target_correct": "Trampling the flowers in the garden.", "english_target_wrong": "Flowers trample the garden."}
+{"chinese_source": "踩踏花园的游客。", "english_target_correct": "Tourists trampling the garden.", "english_target_wrong": "Trampling the tourists in the garden."}
+{"chinese_source": "围剿土匪的老巢。", "english_target_correct": "Siege the bandits' lair.", "english_target_wrong": "The lair Sieging bandits."}
+{"chinese_source": "围剿土匪的正规军。", "english_target_correct": "A regular army Sieging bandits.", "english_target_wrong": "Siege the bandits' regular army."}
+{"chinese_source": "攻占的是叛军的地盘。", "english_target_correct": "It was rebel territory that was captured.", "english_target_wrong": "The rebel territory was capturing."}
+{"chinese_source": "攻占的是正规军队。", "english_target_correct": "The regular army was capturing.", "english_target_wrong": "It was the regular army that was captured."}
+{"chinese_source": "维修的是修车师傅。", "english_target_correct": "The repairman is repairing.", "english_target_wrong": "What was repaired was a repairman."}
+{"chinese_source": "维修的是破旧的小汽车。", "english_target_correct": "What was repaired was a worn out car.", "english_target_wrong": "The worn out car is repairing."}
+{"chinese_source": "援助的是扶贫的志愿者们。", "english_target_correct": "Volunteers who aid the poor are assisting.", "english_target_wrong": "Assistance is provided to the volunteers who aid the poor."}
+{"chinese_source": "援助的是贫困地区的老人。", "english_target_correct": "Assistance is provided to the elderly in poor areas.", "english_target_wrong": "The elderly in poor areas are assisting."}
+{"chinese_source": "援助偏远地区的留守儿童。", "english_target_correct": "Assisting left-behind children in remote areas.", "english_target_wrong": "Left-behind children who provide assistance in remote areas."}
+{"chinese_source": "援助偏远地区的热心志愿者。", "english_target_correct": "Enthusiastic volunteers who provide assistance in remote areas.", "english_target_wrong": "Assisting enthusiastic volunteers in remote areas."}
+{"chinese_source": "预测的是下一场比赛结果。", "english_target_correct": "The prediction is the result of the next game.", "english_target_wrong": "The result of the next game is predicting."}
+{"chinese_source": "预测的是这边著名的占卜师。", "english_target_correct": "The famous diviner here is predicting.", "english_target_wrong": "The prediction is the famous diviner here."}
+{"chinese_source": "占卜未来的运势。", "english_target_correct": "Predicting the fortune in future.", "english_target_wrong": "The fortune predicting the future."}
+{"chinese_source": "占卜未来的占卜师。", "english_target_correct": "Diviner predicting the future.", "english_target_wrong": "Predicting the diviner in future."}
+{"chinese_source": "计算员工工资的总数。", "english_target_correct": "Calculate the total salary of employees.", "english_target_wrong": "A total who calculates the salary of employees."}
+{"chinese_source": "计算员工工资的会计。", "english_target_correct": "An accountant who calculates the salary of employees.", "english_target_wrong": "Calculate the accountant of employees' salary."}
+{"chinese_source": "创建党派的人士。", "english_target_correct": "People who create parties.", "english_target_wrong": "Create people of the party."}
+{"chinese_source": "创建党派的党章。", "english_target_correct": "Create the party charter of the party.", "english_target_wrong": "The party charter who create parties."}
+{"chinese_source": "演奏乐曲的高潮部分。", "english_target_correct": "The climax of the the playing music.", "english_target_wrong": "Climax playing music."}
+{"chinese_source": "演奏乐曲的钢琴家。", "english_target_correct": "Pianist playing music.", "english_target_wrong": "The pianist of the the playing music."}
+{"chinese_source": "演奏的是贝多芬大调。", "english_target_correct": "What was Performed is Beethoven major.", "english_target_wrong": "Beethoven major is performing."}
+{"chinese_source": "演奏的是贝多芬。", "english_target_correct": "Beethoven is playing.", "english_target_wrong": "Performed is Beethoven."}
+{"chinese_source": "竞选的是班长。", "english_target_correct": "The election campaign is for electing the monitor", "english_target_wrong": "The monitor is running for the office."}
+{"chinese_source": "竞选的是班上的学生。", "english_target_correct": "The students in class are running for the office.", "english_target_wrong": "The election campaign is for the students in class."}
+{"chinese_source": "收藏的是汉朝文物。", "english_target_correct": "The collection is the cultural relics of the Han Dynasty.", "english_target_wrong": "Collected by Han Dynasty cultural relic."}
+{"chinese_source": "收藏的是汉朝文物收藏家。", "english_target_correct": "Cultural relic collectors of the Han Dynasty collect it.", "english_target_wrong": "The collection is cultural relic collectors of the Han Dynasty"}
+{"chinese_source": "射击的是百米外的靶子。", "english_target_correct": "What is shooted is a target hundred meters away.", "english_target_wrong": "A target hundred meters away is shooting."}
+{"chinese_source": "射击的是职业狙击手。", "english_target_correct": "A professional sniper is shooting.", "english_target_wrong": "What is shooted is a professional sniper."}
+{"chinese_source": "击中靶子的十环。", "english_target_correct": "Hit the ten ring of the target.", "english_target_wrong": "The ten ring hitting the target."}
+{"chinese_source": "击中靶子的射手。", "english_target_correct": "Archer hitting the target.", "english_target_wrong": "Hit the archer of the target."}
+{"chinese_source": "一条平原上的河流。", "english_target_correct": "A river on the plain.", "english_target_wrong": "Rivers on a plain."}
+{"chinese_source": "一块平原上的河流。", "english_target_correct": "Rivers on a plain.", "english_target_wrong": "A river on the plain."}
+{"chinese_source": "两盏屋子里的台灯。", "english_target_correct": "Two table lamps in the room.", "english_target_wrong": "Table lamps in two rooms."}
+{"chinese_source": "两间屋子里的台灯。", "english_target_correct": "Table lamps in two rooms.", "english_target_wrong": "Two table lamps in the room."}
+{"chinese_source": "三瓶桌上的矿泉水。", "english_target_correct": "Three bottles of mineral water on the table.", "english_target_wrong": "Mineral water on three tables."}
+{"chinese_source": "三张桌上的矿泉水。", "english_target_correct": "Mineral water on three tables.", "english_target_wrong": "Three bottles of mineral water on the table."}
+{"chinese_source": "四张考试的试卷。", "english_target_correct": "Four papers of the exam.", "english_target_wrong": "Papers of four exams."}
+{"chinese_source": "四门考试的试卷。", "english_target_correct": "Papers of four exams.", "english_target_wrong": "Four papers of the exam."}
+{"chinese_source": "五双抽屉里的袜子。", "english_target_correct": "Five pairs of socks in a drawer.", "english_target_wrong": "Socks in five drawers."}
+{"chinese_source": "五个抽屉里的袜子。", "english_target_correct": "Socks in five drawers.", "english_target_wrong": "Five pairs of socks in a drawer."}
+{"chinese_source": "六颗瓶子中的药丸。", "english_target_correct": "Six pills in the bottle.", "english_target_wrong": "Pills in six bottles."}
+{"chinese_source": "六只瓶子中的药丸。", "english_target_correct": "Pills in six bottles.", "english_target_wrong": "Six pills in the bottle."}
+{"chinese_source": "欣赏了几小时的古村落。", "english_target_correct": "Admired the ancient village for hours.", "english_target_wrong": "Admire the ancient village hours ago."}
+{"chinese_source": "欣赏了几百年前的古村落。", "english_target_correct": "Admire the ancient village hundreds of years ago.", "english_target_wrong": "Admired the ancient village for hundreds of years."}
+{"chinese_source": "学习了五小时外语课程。", "english_target_correct": "Learned foreign language course for five hours.", "english_target_wrong": "Learned a five-hour foreign language course."}
+{"chinese_source": "学习了五门外语课程。", "english_target_correct": "Learned five foreign language courses.", "english_target_wrong": "Studied foreign language courses for five courses."}
+{"chinese_source": "我写了六张字帖。", "english_target_correct": "I wrote six copybooks.", "english_target_wrong": "I wrote copybooks for six."}
+{"chinese_source": "我写了六天字帖。", "english_target_correct": "I wrote copybooks for six days.", "english_target_wrong": "I wrote six day copybooks."}
+{"chinese_source": "弹奏了一首美妙的音乐。", "english_target_correct": "Played a wonderful piece of music.", "english_target_wrong": "Played wonderful music for one piece."}
+{"chinese_source": "弹奏了一天美妙的音乐。", "english_target_correct": "Played wonderful music for a day.", "english_target_wrong": "Played one day wonderful music."}
+{"chinese_source": "检查枪支的子弹。", "english_target_correct": "Check bullets of the gun.", "english_target_wrong": "Bullets checking guns."}
+{"chinese_source": "检查枪支的警察。", "english_target_correct": "Police checking guns.", "english_target_wrong": "Check polices of the gun."}
+{"chinese_source": "补助的是家庭贫困的学生。", "english_target_correct": "Subsidies are given to students from poor families.", "english_target_wrong": "Subsidies are provided by students from poor families."}
+{"chinese_source": "补助的是国家机构。", "english_target_correct": "Subsidies are provided by state agencies.", "english_target_wrong": "Subsidies are given to state agencies."}
+{"chinese_source": "三位考场的老师聚在一起聊天。", "english_target_correct": "The three teachers in the examination room got together to chat.", "english_target_wrong": "Teachers from the three examination rooms got together to chat."}
+{"chinese_source": "三间考场的老师聚在一起聊天。", "english_target_correct": "Teachers from the three examination rooms got together to chat.", "english_target_wrong": "The three teachers in the examination room got together to chat."}
+{"chinese_source": "救援的是受灾群众。", "english_target_correct": "The relief was for the victims.", "english_target_wrong": "The rescuers were the victims."}
+{"chinese_source": "救援的是消防队员。", "english_target_correct": "The rescuers were firefighters.", "english_target_wrong": "The relief was for the firefighters."}
+{"chinese_source": "学习课本的文章。", "english_target_correct": "Study articles of the textbook .", "english_target_wrong": "Articles studying textbooks."}
+{"chinese_source": "学习课本的学生。", "english_target_correct": "Students studying textbooks.", "english_target_wrong": "Study students of the textbook ."}
+{"chinese_source": "建造城市的高楼。", "english_target_correct": "Build tall buildings in the city.", "english_target_wrong": "Tall buildings building a city."}
+{"chinese_source": "建造城市的工人。", "english_target_correct": "Workers building a city.", "english_target_wrong": "Build workers in the city."}
+{"chinese_source": "我看了十天报纸。", "english_target_correct": "I read newspapers for ten days.", "english_target_wrong": "I read ten day newspapers."}
+{"chinese_source": "我看了十份报纸。", "english_target_correct": "I read ten newspapers.", "english_target_wrong": "I read newspapers for ten pieces."}
+{"chinese_source": "三家医院的医生坐在一起开会。", "english_target_correct": "Doctors from three hospitals are sitting together for a meeting.", "english_target_wrong": "Three doctors of the hosipital sat together for a meeting."}
+{"chinese_source": "三位医院的医生坐在一起开会。", "english_target_correct": "Three doctors of the hospital sat together for a meeting.", "english_target_wrong": "Doctors from three hospitals are sitting together for a meeting."}
+{"chinese_source": "表演认真的节目。", "english_target_correct": "Perform a show seriously.", "english_target_wrong": "Perform a serious show."}
+{"chinese_source": "表演有趣的节目。", "english_target_correct": "Perform interesting shows.", "english_target_wrong": "Perform shows interestly."}
+{"chinese_source": "学习用心的课程。", "english_target_correct": "Learn lessons attentivly.", "english_target_wrong": "Learn attentive lessons."}
+{"chinese_source": "学习简单的课程。", "english_target_correct": "Learn simple lessons.", "english_target_wrong": "Learn lessons simply."}
+{"chinese_source": "购买艰难的禁运品。", "english_target_correct": "Buy embargoes toughly.", "english_target_wrong": "Buy tough embargoes."}
+{"chinese_source": "购买稀有的禁运品。", "english_target_correct": "Buy rare embargoes.", "english_target_wrong": "Buy embargoes rarely."}
+{"chinese_source": "卖邻居作业本。", "english_target_correct": "Sell exercise books to neighbors.", "english_target_wrong": "Sell neighbor's exercise books ."}
+{"chinese_source": "卖多余作业本。", "english_target_correct": "Sell extra exercise books.", "english_target_wrong": "Sell exercise books  to extra."}
+{"chinese_source": "送领导礼物。", "english_target_correct": "Send gifts to leader.", "english_target_wrong": "Send leader's gifts."}
+{"chinese_source": "送成年礼物。", "english_target_correct": "Send adult gifts.", "english_target_wrong": "Give adult's gift.."}
+{"chinese_source": "天上的鸟和鱼都有共同的祖先。", "english_target_correct": "Birds and fish in the sky have common ancestors.", "english_target_wrong": "Birds in the sky and fish have common ancestors."}
+{"chinese_source": "天上的云和雨交织在一起。", "english_target_correct": "The clouds and rain in the sky are intertwined.", "english_target_wrong": "The clouds in the sky and rain are intertwined."}
+{"chinese_source": "学校里的老师和警察都属于公职人员。", "english_target_correct": "The teachers in the school and police are public officials.", "english_target_wrong": "The teachers and police in the school are public officials."}
+{"chinese_source": "学校里的老师和学生都和睦相处。", "english_target_correct": "Teachers and students in the school live in harmony.", "english_target_wrong": "Teachers in the school and students live in harmony."}
+{"chinese_source": "空气中的氧气和水缺一不可。", "english_target_correct": "Oxygen in the air and water are indispensable.", "english_target_wrong": "Oxygen and water in the air are indispensable."}
+{"chinese_source": "空气中的氧气和二氧化碳缺一不可。", "english_target_correct": "Both oxygen and carbon dioxide in the air are indispensable.", "english_target_wrong": "Oxygen in the air and carbon dioxide are indispensable."}
+{"chinese_source": "两扇屋里的用玻璃制造的窗。", "english_target_correct": "Two windows made by glass in the house.", "english_target_wrong": "The windows made by glass in two houses."}
+{"chinese_source": "两座屋里的窗。", "english_target_correct": "The windows in two houses.", "english_target_wrong": "Two windows in the house."}
+{"chinese_source": "五道考试的题目。", "english_target_correct": "Five questions for the exam.", "english_target_wrong": "Questions for five exams."}
+{"chinese_source": "三次考试的题目。", "english_target_correct": "Questions for three exams. ", "english_target_wrong": "Three questions for the exam."}
+{"chinese_source": "两条书上的定理。", "english_target_correct": "Two theorem in the book. ", "english_target_wrong": "The theorem in two books. "}
+{"chinese_source": "两本书上的定理。", "english_target_correct": "The theorem in two books. ", "english_target_wrong": "Two theorem in the book. "}
+{"chinese_source": "四头屠宰场的牛。", "english_target_correct": "Four cattle in a slaughterhouse. ", "english_target_wrong": "Cattle in four slaughterhouses. "}
+{"chinese_source": "四座屠宰场的牛。", "english_target_correct": "The cattle in four slaughterhouses. ", "english_target_wrong": "Four cattle in a slaughterhouse. "}
+{"chinese_source": "两副药店的中药。", "english_target_correct": "Two chinese medicines in the pharmacy. ", "english_target_wrong": "Chinese medicine in two pharmacies. "}
+{"chinese_source": "两所药店的中药。", "english_target_correct": "Chinese medicine in two pharmacies. ", "english_target_wrong": "Two chinese medicines in the pharmacy. "}
+{"chinese_source": "一本书店的书。", "english_target_correct": "A book in the bookstore.", "english_target_wrong": "The Books in two bookstores."}
+{"chinese_source": "两家书店的书。", "english_target_correct": "The Books in two bookstores.", "english_target_wrong": "A book in the bookstore."}
+{"chinese_source": "夹带的是考生。", "english_target_correct": "It is the examinee who carry something.", "english_target_wrong": "What is carried is the examinee."}
+{"chinese_source": "夹带的是试卷。", "english_target_correct": "What is carried is the test paper.", "english_target_wrong": "It is the test paper who carry something."}
+{"chinese_source": "进行交易的是一个象牙。", "english_target_correct": "They are two rich man who is trading.", "english_target_wrong": "What is traded is the two rich man."}
+{"chinese_source": "进行交易的是两个富翁。", "english_target_correct": "What is traded is the ivory.", "english_target_wrong": "It is a ivory that is trading."}
+{"chinese_source": "品味的是一个精彩的故事。", "english_target_correct": "What is tasted is a wonderful story.", "english_target_wrong": "A wonderful story is tasting."}
+{"chinese_source": "品味的是一个路边的老爷爷。", "english_target_correct": "An old grandfather by the side of the road is tasting.", "english_target_wrong": "What is tasted is an old grandfather by the side of the road."}
+{"chinese_source": "讲解的是这个古老建筑物的历史。", "english_target_correct": "What is explained is the history of this ancient building.", "english_target_wrong": "It is the history of this ancient building which is explaining."}
+{"chinese_source": "讲解的是一个很专业的导游。", "english_target_correct": "It is a very professional tour guide who is explaining.", "english_target_wrong": "What is explained is a very professional tour guide."}
+{"chinese_source": "截取的是一段视频。", "english_target_correct": "What is intercepted is a video.", "english_target_wrong": "A video is intercepting it."}
+{"chinese_source": "截取的是正在寻找图片的同学。", "english_target_correct": "The classmates who are looking for pictures are intercepting it.", "english_target_wrong": "What is intercepted is the classmates who are looking for pictures."}
+{"chinese_source": "计算的是一道比较困难的物理题目。", "english_target_correct": "What is being calculated ia a difficult physical problem.", "english_target_wrong": "A difficult physical problem is calculating."}
+{"chinese_source": "计算的是我们班上的数学课代表。", "english_target_correct": "The math class representative in our class is calculating.", "english_target_wrong": "What is being calculated ia the math class representative in our class."}
+{"chinese_source": "指挥的是一场重要的足球比赛。", "english_target_correct": "What is being conducted is an important football match.", "english_target_wrong": "An important football match is conducting."}
+{"chinese_source": "指挥的是一个专业的足球教练。", "english_target_correct": "A professional football coach is conducting.", "english_target_wrong": "What is being conducted is a professional football coach."}
+{"chinese_source": "领导的是重大工程项目。", "english_target_correct": "What is led is the major engineering projects.", "english_target_wrong": "The major engineering project is leading."}
+{"chinese_source": "领导的是这个国家的领导人。", "english_target_correct": "The leader of this country is leading.", "english_target_wrong": "What is leaded is the leader of this country."}
+{"chinese_source": "比试的是数学能力。", "english_target_correct": "What is competed is the mathematical ability.", "english_target_wrong": "The mathematical ability  have a competition."}
+{"chinese_source": "比试的是两个数学天才。", "english_target_correct": "Two math geniuses have a competition.", "english_target_wrong": "What is competed is two math geniuses."}
+{"chinese_source": "雕刻的是一个木匠。", "english_target_correct": "A carpenter is carving.", "english_target_wrong": "What is carved is a carpenter."}
+{"chinese_source": "雕刻的是一块大理石。", "english_target_correct": "What is carved is a piece of marble.", "english_target_wrong": "A piece of marble is carving."}
+{"chinese_source": "检查课本的领导。 ", "english_target_correct": "It is leader who is checking the textbook.", "english_target_wrong": "Check the leader of the textbook."}
+{"chinese_source": "检查课本的价格。", "english_target_correct": "Check the price of the textbook.", "english_target_wrong": "It is the price that is checking the textbook."}
+{"chinese_source": "吃鱼的尾巴。", "english_target_correct": "Eat the tail of the fish.", "english_target_wrong": "It is the tail that is eating the fish."}
+{"chinese_source": "吃鱼的顾客。", "english_target_correct": "It is the customers who are eating the fish.", "english_target_wrong": "Eat the customers of the fish."}
+{"chinese_source": "讨论数学的公式。", "english_target_correct": "Discuss mathematical formulas.", "english_target_wrong": "It is the formulas to discuss discuss mathematics."}
+{"chinese_source": "讨论数学的会议。", "english_target_correct": "It is a meeting to discuss mathematics.", "english_target_wrong": "Discuss mathematical meeting."}
+{"chinese_source": "抹桌子的毛巾。", "english_target_correct": "The towel is used for wiping the table.", "english_target_wrong": "Wipe the table towel."}
+{"chinese_source": "抹桌子的桌脚。", "english_target_correct": "Wipe the table legs.", "english_target_wrong": "The legs are used for wipe the table."}
+{"chinese_source": "迷失道路的方向。", "english_target_correct": "Lost the direction of the road.", "english_target_wrong": "The direction which lost the road."}
+{"chinese_source": "迷失道路的游客。", "english_target_correct": "The tourists who lost the road.", "english_target_wrong": "Lost the tourists of the road."}
+{"chinese_source": "揭露真相的谜底。", "english_target_correct": "Reveal the mystery of the truth.", "english_target_wrong": "It is a mystery that reveals the turth."}
+{"chinese_source": "揭露真相的记录。", "english_target_correct": "It is a record that reveals the turth.", "english_target_wrong": "Reveal the record of the truth."}
+{"chinese_source": "记录现实的场景。", "english_target_correct": "Record realistic scenes.", "english_target_wrong": "It is a scene that record reality."}
+{"chinese_source": "记录现实的影片。", "english_target_correct": "It is a film that record the reality.", "english_target_wrong": "Record realistic videos."}
+{"chinese_source": "遮住脸的面纱。", "english_target_correct": "The veil can be used to cover face.", "english_target_wrong": "Cover the veil in face."}
+{"chinese_source": "遮住脸的青春痘。", "english_target_correct": "Cover the acne in face.", "english_target_wrong": "The ance can be used to cover face."}
+{"chinese_source": "讲解题目的解决方法。", "english_target_correct": "Explain the solution of the problem.", "english_target_wrong": "The solution is explaining the problem."}
+{"chinese_source": "讲解题目的老师。", "english_target_correct": "The teacher is explaining the problem.", "english_target_wrong": "Explain the teacher of the problem."}
+{"chinese_source": "检索货物的清单。", "english_target_correct": "Retrieve a list of goods.", "english_target_wrong": "It is list that is retrieving the goods. "}
+{"chinese_source": "检索货物的领导人。", "english_target_correct": "The leader who is retrieving the goods. ", "english_target_wrong": "Retrieve the leader of the goods."}
+{"chinese_source": "视察私营公司的政府工作人员。", "english_target_correct": "It is the government staff who is inspecting the private company.", "english_target_wrong": "Inspect the government staff of the private company."}
+{"chinese_source": "视察私营公司的运转情况。", "english_target_correct": "Inspect the operation of the private company.", "english_target_wrong": "It is the operation that is inspecting the private company."}
+{"chinese_source": "搭建快速的舞台。", "english_target_correct": "The stage that was built fast.", "english_target_wrong": "Built a fast stage ."}
+{"chinese_source": "搭建闪亮的舞台。", "english_target_correct": "Build a brightly lit stage. ", "english_target_wrong": "The stage that is  brightly lit bulit ."}
+{"chinese_source": "培养细心的细菌。", "english_target_correct": "The bacteria that is cultivated carefully . ", "english_target_wrong": "Cultivate careful bacteria. "}
+{"chinese_source": "培养细小的细菌。", "english_target_correct": "Cultivate tiny bacteria. ", "english_target_wrong": "The bacteria that is cultivated finely . "}
+{"chinese_source": "批阅马虎的文件。", "english_target_correct": "The documents that are reviewed carelessly.", "english_target_wrong": "Review careless documents."}
+{"chinese_source": "批阅重要的文件。", "english_target_correct": "Review important documents.", "english_target_wrong": "The documents that are reviewed weightily ."}
+{"chinese_source": "拆除缓慢的建筑。", "english_target_correct": "The building that was demolished slowly.", "english_target_wrong": "Demolish the slow building."}
+{"chinese_source": "拆除破旧的建筑。", "english_target_correct": "Demolish the dilapidated building.", "english_target_wrong": "The building that  demolished dilapidated ."}
